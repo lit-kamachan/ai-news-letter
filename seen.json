@@ -5,6 +5,12 @@
       "no": 1,
       "count": 9,
       "lead": "モデル公開ラッシュの裏で、企業側の焦点は「使うこと」から「成果への転換」に移り始めた。"
+    },
+    {
+      "date": "2026-08-15",
+      "no": 2,
+      "count": 16,
+      "lead": "「導入した」から「権限をどう絞り、何を回収できたか」へ―AI活用の物差しが一段階先に進んだ一週間。"
     }
   ],
   "urls": [
@@ -16,6 +22,22 @@
     "mixi.co.jp/news/2026/0731/55421",
     "prtimes.jp/main/html/rd/p/000000130.000026996.html",
     "tech-blog.cluster.mu/entry/2026/08/07",
-    "claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models"
+    "claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+    "9to5google.com/2026/08/13/gemini-3-7-flash-launch",
+    "techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed",
+    "techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default",
+    "bloomberg.com/news/articles/2026-08-03/alibaba-drops-another-china-ai-model-with-breakthrough-performance",
+    "itmedia.co.jp/aiplus/article/2608/13/2000000524",
+    "atmarkit.itmedia.co.jp/ait/articles/2608/04/news002.html",
+    "claude.com/blog/millennium-and-anthropic-are-building-a-digital-risk-analyst-with-claude",
+    "claude.com/blog/self-service-data-analytics-in-slack-how-anthropic-deploys-claude-tag-for-ad-hoc-questions",
+    "itmedia.co.jp/news/article/2608/06/2000000370",
+    "claude.com/blog/bringing-claude-code-and-claude-cowork-to-government",
+    "techrepublic.com/article/news-openai-1-billion-users",
+    "bloomberg.com/jp/news/articles/2026-08-06/tj0ngat9njlu00",
+    "chiefexecutive.net/in-final-stretch-of-the-year-ceos-push-for-growth-lean-into-ai",
+    "techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress",
+    "simonwillison.net/2026/aug/9/claude-opus-5-system-prompt",
+    "note.com/ai__worker/n/n2bb57669b154"
   ]
 }

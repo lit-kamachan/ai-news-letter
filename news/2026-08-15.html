@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta name="theme-color" content="#FFFFFF">
+<title>AIニュースレター｜2026/8/15（土）</title>
+<style>
+:root{--ink:#16191C;--body:#2A2E33;--gray:#8B95A1;--line:#E3E6E8;--blue:#0F8BFF;--red:#E8482E;--fig:#EDEFF0;--figh:#3C4650;}
+*{box-sizing:border-box;-webkit-text-size-adjust:100%;}
+html,body{margin:0;padding:0;background:#fff;}
+body{color:var(--body);font-family:-apple-system,BlinkMacSystemFont,"Hiragino Kaku Gothic ProN","Noto Sans JP","Yu Gothic",sans-serif;font-size:15px;line-height:1.85;letter-spacing:.015em;overflow-x:hidden;}
+.wrap{max-width:420px;margin:0 auto;padding-bottom:calc(env(safe-area-inset-bottom) + 40px);}
+.hero{padding:0;--art-bg:#EDE7DE;--art-accent:#0F8BFF;}
+.hero.w-mon{--art-bg:#DDE8F0;--art-accent:#0F6FDE;}
+.hero.w-tue{--art-bg:#EDE7DE;--art-accent:#E8742E;}
+.hero.w-wed{--art-bg:#E2EDE4;--art-accent:#1E9E5A;}
+.hero.w-thu{--art-bg:#EBE2EC;--art-accent:#8B5CD6;}
+.hero.w-fri{--art-bg:#F3EAB6;--art-accent:#C98A06;}
+.hero.w-sat,.hero.w-sun{--art-bg:#E9E9E9;--art-accent:#7B858F;}
+.hero svg{display:block;width:100%;height:auto;}
+.head{padding:20px 18px 0;}
+.pubdate{font-size:12px;color:var(--gray);font-variant-numeric:tabular-nums;}
+h1{margin:3px 0 0;color:var(--ink);font-size:23px;font-weight:800;line-height:1.5;letter-spacing:-.02em;}
+.lead{margin:10px 0 0;font-size:14.5px;font-weight:700;color:var(--ink);line-height:1.7;}
+.byline{display:flex;align-items:center;gap:8px;margin:14px 0 0;}
+.byline .av{width:34px;height:34px;border-radius:50%;flex:none;background:#E9ECEF;color:#5B6672;display:flex;align-items:center;justify-content:center;font-size:12px;font-weight:800;}
+.byline b{display:block;font-size:12.5px;color:var(--ink);font-weight:700;line-height:1.5;}
+.byline span{display:block;font-size:10.5px;color:var(--gray);line-height:1.5;}
+.summary{margin:20px 18px 0;border-left:4px solid var(--blue);padding:9px 0 9px 13px;}
+.summary .h{font-size:10.5px;font-weight:800;color:var(--blue);letter-spacing:.06em;}
+.summary ul{margin:5px 0 0;padding-left:17px;}
+.summary li{font-size:13px;line-height:1.7;color:var(--ink);font-weight:600;margin-top:3px;}
+.metrics{display:flex;margin:18px 18px 0;border:1px solid var(--line);}
+.metrics div{flex:1;padding:10px 4px 9px;text-align:center;border-left:1px solid var(--line);}
+.metrics div:first-child{border-left:0;}
+.metrics b{display:block;font-size:21px;font-weight:800;color:var(--ink);font-variant-numeric:tabular-nums;letter-spacing:-.03em;line-height:1.25;}
+.metrics span{display:block;font-size:10px;color:var(--gray);line-height:1.4;}
+article{padding:8px 18px 0;}
+h2{margin:32px 0 14px;padding-top:16px;border-top:1px solid var(--line);color:var(--ink);font-size:17.5px;font-weight:800;line-height:1.6;letter-spacing:-.01em;}
+h2 i{font-style:normal;font-variant-numeric:tabular-nums;}
+h2 em{font-style:normal;font-size:11px;color:var(--gray);font-weight:400;margin-left:6px;}
+.index{border:1px solid var(--line);border-radius:3px;margin:22px 0 4px;}
+.index .t{font-size:12.5px;font-weight:700;color:var(--ink);padding:10px 14px;}
+.index a{display:block;border-top:1px solid var(--line);padding:9px 14px;font-size:13px;line-height:1.6;color:var(--body);text-decoration:none;}
+.index a i{font-style:normal;color:var(--gray);font-variant-numeric:tabular-nums;margin-right:2px;}
+.index a b{float:right;font-size:11.5px;color:var(--gray);font-weight:700;font-variant-numeric:tabular-nums;}
+.item{border-bottom:1px solid var(--line);padding:15px 0 14px;}
+.item:last-child{border-bottom:0;}
+.item .t{font-size:14.5px;font-weight:700;color:var(--ink);line-height:1.6;}
+.item .what{font-size:12.5px;line-height:1.8;color:#3A424C;margin-top:5px;}
+.item .why{font-size:12.5px;line-height:1.8;color:#4C5560;margin-top:7px;padding-left:11px;border-left:2px solid var(--line);}
+.item .why b{color:var(--ink);font-weight:700;}
+.item .src{font-size:10.5px;color:var(--gray);margin-top:6px;}
+.item .src a{color:var(--blue);text-decoration:none;font-weight:600;}
+.item .src .dot{margin:0 5px;opacity:.5;}
+.tag{display:inline-block;font-size:9.5px;font-weight:800;padding:1px 4px;border-radius:2px;color:#fff;white-space:nowrap;margin-left:4px;vertical-align:1px;}
+.t-jp{background:var(--figh);} .t-en{background:#AEB6BE;}
+.catnote{margin:16px -18px 0;background:var(--fig);padding:12px 18px;font-size:11.5px;line-height:1.8;color:#4C5560;}
+.catnote b{color:var(--ink);font-weight:700;}
+.pick{margin:28px -18px 0;background:var(--fig);padding:15px 18px 14px;border-top:3px solid var(--ink);}
+.pick .h{font-size:10.5px;font-weight:800;color:var(--ink);letter-spacing:.06em;}
+.pick p{margin:5px 0 0;font-size:14px;font-weight:700;color:var(--ink);line-height:1.7;}
+.pick small{display:block;margin-top:5px;font-size:11.5px;color:#5B6672;font-weight:400;line-height:1.8;}
+footer{margin:30px 18px 0;padding-top:14px;border-top:1px solid var(--line);font-size:10.5px;color:var(--gray);line-height:1.9;}
+footer b{color:#5B6672;}
+footer a{color:var(--blue);text-decoration:none;font-weight:600;}
+</style>
+</head>
+<body>
+<div class="wrap">
+<div class="hero w-sat">
+<svg viewBox="0 0 420 372" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="新聞と電波の線画">
+  <rect width="420" height="372" fill="var(--art-bg)"/>
+  <g fill="none" stroke="#1B1B1B" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 108c-14-14-14-38 0-52"/>
+    <path d="M92 122c-24-24-24-66 0-90" opacity=".55"/>
+    <path d="M120 136c-34-34-34-94 0-128" opacity=".3"/>
+    <path d="M150 150h206a8 8 0 0 1 8 8v148a8 8 0 0 1-8 8H150z" fill="#fff"/>
+    <rect x="112" y="168" width="196" height="146" rx="8" fill="#fff"/>
+    <path d="M134 196h152" stroke-width="4.6"/>
+    <rect x="134" y="216" width="52" height="38" rx="3" fill="var(--art-accent)" stroke="none"/>
+    <path d="M198 224h88" stroke-width="3" opacity=".8"/>
+    <path d="M198 244h72" stroke-width="3" opacity=".8"/>
+    <path d="M134 274h152" stroke-width="3" opacity=".8"/>
+    <path d="M134 294h108" stroke-width="3" opacity=".8"/>
+    <path d="M24 332h372" stroke-width="3.8"/>
+  </g>
+  <polygon points="0,372 420,372 420,326 0,356" fill="#fff"/>
+</svg>
+</div>
+<div class="head">
+  <div class="pubdate">2026/8/15（土）・第2号</div>
+  <h1>AIニュースレター</h1>
+  <p class="lead">「導入した」から「権限をどう絞り、何を回収できたか」へ―AI活用の物差しが一段階先に進んだ一週間。</p>
+  <div class="byline">
+    <span class="av">か</span>
+    <span><b>かまちゃん宛</b><span>Claude が自動収集・既出は除外済み</span></span>
+  </div>
+</div>
+<div class="summary">
+  <div class="h">この号の要点</div>
+  <ul>
+    <li>モデル競争の軸は性能から「速度・価格・オープン化・権限設計」の4つに分散した（Gemini 3.7 Flash・GPT-5.6 Ultrafast・Qwen3.8-Max・Claude Code auto mode）。</li>
+    <li>企業のエージェント導入で共通するのは「先に権限を絞ってから広げる」設計（メルカリ・Millennium・Anthropic自身のSlack事例）。</li>
+    <li>号令（孫正義・NVIDIA・OpenAI）の威勢と、決算・CEO調査に表れる「回収」「人員削減」という本音の間に温度差が目立った。</li>
+  </ul>
+</div>
+<div class="metrics">
+  <div><b>16</b><span>掲載本数</span></div>
+  <div><b>1</b><span>既出で除外</span></div>
+  <div><b>4</b><span>カテゴリ</span></div>
+</div>
+<article>
+<div class="index">
+  <div class="t">▼ INDEX</div>
+  <a href="#c1"><i>01</i>｜モデル・リリース速報<b>5本</b></a>
+  <a href="#c2"><i>02</i>｜Cowork中心の活用事例<b>4本</b></a>
+  <a href="#c3"><i>03</i>｜組織導入 × トップの発言<b>5本</b></a>
+  <a href="#c4"><i>04</i>｜新しい使い方の発見<b>2本</b></a>
+</div>
+<h2 id="c1"><i>01</i>｜モデル・リリース速報<em>フロンティアモデルの新版・新機能</em></h2>
+<div class="item">
+  <div class="t">Gemini 3.7 Flash、3週間で前モデルを更新<span class="tag t-en">EN</span></div>
+  <div class="what">Googleは8月13日、コーディング・エージェント開発向けモデル「Gemini 3.7 Flash」を公開した。3週間前のGemini 3.6 Flashからの更新で、入力100万トークン・出力最大6.4万トークンに対応。価格は2026年内が入力100万トークンあたり0.75ドル・出力3.75ドルの導入価格で、2027年1月から1.50ドル・7.50ドルに上げるとモデルカードに明記した。</div>
+  <div class="why"><b>なぜ重要か：</b>Googleは9つのベンチマークでAnthropic・OpenAI勢を上回ったとするが、本命の「Gemini 3.5 Pro」は依然未公開のまま。フラグシップを出し渋りながら廉価モデルの更新速度だけを上げる戦い方が定着しつつある。</div>
+  <div class="src">9to5Google<span class="dot">·</span>2026/8/13<span class="dot">·</span><a href="https://9to5google.com/2026/08/13/gemini-3-7-flash-launch/">原文</a></div>
+</div>
+<div class="item">
+  <div class="t">GPT-5.6 Sol、14倍速の新推論モード「Ultrafast」<span class="tag t-en">EN</span></div>
+  <div class="what">OpenAIは8月13日、GPT-5.6 Solを通常の14倍の速度で動かす新モード「Ultrafast」を導入したと発表した。</div>
+  <div class="why"><b>なぜ重要か：</b>性能競争の軸がベンチマークのスコアから「同じ精度をどれだけ速く返せるか」に移っていることを示す一手で、コーディングエージェントのように何度も往復するワークロードほど恩恵が大きい。</div>
+  <div class="src">TechCrunch<span class="dot">·</span>2026/8/13<span class="dot">·</span><a href="https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/">原文</a></div>
+</div>
+<div class="item">
+  <div class="t">Claude Code、権限確認を「自動判定」に標準変更<span class="tag t-en">EN</span></div>
+  <div class="what">Anthropicは8月14日、Claude CodeのPro/Max/Teamプランで、ツール呼び出しごとの許可確認をやめ、破壊的・不可逆・想定外の操作だけを検知する分類器に置き換える「auto mode」を新規セッションの標準にした。許可プロンプトの97%が承認されている状況を「多くの利用者が内容を確認せず反射的にクリックしている」根拠として挙げ、有償テスター1053人での検証ではauto modeが有害操作の89%を検知した一方、人手レビューの検知率は13.6%にとどまったとしている。</div>
+  <div class="why"><b>なぜ重要か：</b>「毎回人に聞く」設計から「リスクだけを機械が見張る」設計への転換で、エージェントの安全設計を性善説の確認プロセスから統計的な検知モデルに移す判断の実例になる。</div>
+  <div class="src">TechCrunch<span class="dot">·</span>2026/8/9（8/14適用開始）<span class="dot">·</span><a href="https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/">原文</a></div>
+</div>
+<div class="item">
+  <div class="t">Alibaba、2.4兆パラメータの「Qwen3.8-Max」をオープン化<span class="tag t-en">EN</span></div>
+  <div class="what">Alibabaは8月3日、Mixture-of-Expertsモデル「Qwen3.8-Max」を発表した。総パラメータ2.4兆・アクティブパラメータ950億、コンテキスト窓100万トークンで、テキスト・画像・動画をネイティブに入力できる。Qwenシリーズで初めて最上位「Max」クラスを重み公開の対象とし、翌週にHugging FaceとModelScopeで重みを公開する計画とした。</div>
+  <div class="why"><b>なぜ重要か：</b>直近の主力モデルを非公開で出し続けてきたAlibabaが最上位モデルで再びオープンウェイト戦略に戻したことは、「オープンモデルはクローズドモデルに劣る」という前提を崩す動きになる。</div>
+  <div class="src">Bloomberg<span class="dot">·</span>2026/8/3<span class="dot">·</span><a href="https://www.bloomberg.com/news/articles/2026-08-03/alibaba-drops-another-china-ai-model-with-breakthrough-performance">原文</a></div>
+</div>
+<div class="item">
+  <div class="t">Sakana AI、最上位モデル「Fugu」を無料チャットで開放<span class="tag t-jp">JP</span></div>
+  <div class="what">Sakana AIは8月13日、無料チャットサービス「Sakana Chat」で最上位モデル「Sakana Fugu」を無料開放した。複数のAIモデルの「集団的知性」で動くオーケストレーター型の設計で、Pythonサンドボックスでのコード実行やWord・Excel・PDFのファイル添付、成果物のプレビューに対応する。既存の「Sakana Namazu」も中国Moonshot AI製のオープンモデル「Kimi K2.6」ベースに刷新した。</div>
+  <div class="why"><b>なぜ重要か：</b>単一の巨大モデルを鍛える路線ではなく、複数モデルの協調を無料開放して裾野を広げる設計は、国産AIが取れる数少ない差別化軸を具体化した動き。</div>
+  <div class="src">ITmedia<span class="dot">·</span>2026/8/13<span class="dot">·</span><a href="https://www.itmedia.co.jp/aiplus/article/2608/13/2000000524/">原文</a></div>
+</div>
+<div class="catnote"><b>このカテゴリの流れ：</b>「性能」ではなく「速度・価格・オープン化・権限設計」という4つの軸で各社が差別化点を探っている一週間だった。ベンチマークの数字だけを追う段階は終わりつつある。</div>
+<h2 id="c2"><i>02</i>｜Cowork中心の活用事例<em>エージェント・社内導入のリアルな使い方</em></h2>
+<div class="item">
+  <div class="t">メルカリ、Claude Code/Coworkの「配る」設計を公開<span class="tag t-jp">JP</span></div>
+  <div class="what">メルカリは2026年5月に全社員へのClaude Code・Claude Cowork展開を完了し、幅広いツールを試す実証実験フェーズから、目的を絞って生産性を追求する「集約化・活用フェーズ」に移ったとITmedia@ITが8月4日に報じた。モバイル・デバイス・マネジメント（MDM）で設定とシステムプロンプトを全社員に自動配布し、エンジニアと非エンジニアで権限設定を分ける仕組みを整えている。</div>
+  <div class="why"><b>なぜ重要か：</b>「使わせること」ではなく「安全に配ること」を先に設計する必要があるという、数百人規模の全社展開で初めて見えてくる課題を具体的な運用として示している。</div>
+  <div class="src">ITmedia @IT<span class="dot">·</span>2026/8/4<span class="dot">·</span><a href="https://atmarkit.itmedia.co.jp/ait/articles/2608/04/news002.html">原文</a></div>
+</div>
+<div class="item">
+  <div class="t">ヘッジファンドMillennium、Claudeで「デジタルリスクアナリスト」共同開発<span class="tag t-en">EN</span></div>
+  <div class="what">大手ヘッジファンドMillenniumとAnthropicは8月6日、Claudeを使った「デジタルリスクアナリスト」の共同開発を発表した。リスクマネージャーの監督下で資産クラス横断のリスクインサイトを提示し意見を形成するAIチームメイトと位置づけ、時間をまたいで情報を保持・想起する機能を持たせる。Millenniumはトレーディングデスクからエンジニアリング、中核業務まで既にClaudeとClaude Codeを広く使っているという。</div>
+  <div class="why"><b>なぜ重要か：</b>汎用チャットボットではなく、リスク管理という専門職務に特化して「人間の監督下で動くAIチームメイト」を設計する事例で、金融機関のエージェント導入の型として参照されやすい。</div>
+  <div class="src">Claude Blog（Anthropic）<span class="dot">·</span>2026/8/6<span class="dot">·</span><a href="https://claude.com/blog/millennium-and-anthropic-are-building-a-digital-risk-analyst-with-claude">原文</a></div>
+</div>
+<div class="item">
+  <div class="t">Anthropic自身、Slackの即席データ分析にClaude Tagを実戦投入<span class="tag t-en">EN</span></div>
+  <div class="what">Anthropicは8月13日、社内のSlackでの単発的なデータ質問にClaude Tagを使わせている事例を公開した。展開の勘所として「まずサービスアカウントの読み取り権限を絞ってからエージェントのコードを書く」ことを明記し、権限は後から広げる方が絞るより容易だと説明している。</div>
+  <div class="why"><b>なぜ重要か：</b>自社製品を「まず絞ってから広げる」権限設計で自ら使うという運用原則の明文化は、他社が社内導入する際のガバナンス基準としてそのまま転用しやすい。</div>
+  <div class="src">Claude Blog（Anthropic）<span class="dot">·</span>2026/8/13<span class="dot">·</span><a href="https://claude.com/blog/self-service-data-analytics-in-slack-how-anthropic-deploys-claude-tag-for-ad-hoc-questions">原文</a></div>
+</div>
+<div class="item">
+  <div class="t">ワークマン、画像生成AIで「間に合わない商品撮影」を代替<span class="tag t-jp">JP</span></div>
+  <div class="what">ワークマンは全国1000店舗超を社員500人以下で支える体制の中、2025年に画像生成AIを導入し、商品の利用シーン画像制作に充ててきた。ITmediaビジネスオンラインが8月6日に報じたところでは、EC・公式アプリでの活用拡大により、アプリ通知の開封率が導入前比1.5倍に向上したという。</div>
+  <div class="why"><b>なぜ重要か：</b>少人数運用の小売業で「人手が足りず間に合わない制作業務」をAIに置き換え、開封率という具体的な指標の改善につなげた数少ない事例。</div>
+  <div class="src">ITmedia ビジネスオンライン<span class="dot">·</span>2026/8/6<span class="dot">·</span><a href="https://www.itmedia.co.jp/news/article/2608/06/2000000370/">原文</a></div>
+</div>
+<div class="catnote"><b>このカテゴリの流れ：</b>共通するのは「エージェントに最初から何を許すか」を決めてから展開している点。メルカリは権限をMDMで、Anthropic自身は読み取り権限を絞ることで、Millenniumは人間の監督で担保している。</div>
+<h2 id="c3"><i>03</i>｜組織導入 × トップの発言<em>経営層のAI号令・方針・名言</em></h2>
+<div class="item">
+  <div class="t">Anthropic、政府機関向け「Claude for Government」をベータ公開<span class="tag t-en">EN</span></div>
+  <div class="what">AnthropicはFedRAMP High認定環境上で動く「Claude for Government」のベータ提供を開始したと発表した。Claude CodeとClaude Coworkも同環境の政府向けベータとして利用可能で、契約・請求はAnthropicが窓口となり機関側が別途クラウド事業者と契約する必要はない。期間限定プログラムでは、連邦機関向けに8月末までシート数無制限で1機関あたり1ドルで提供するとしている。</div>
+  <div class="why"><b>なぜ重要か：</b>商用環境と論理分離した政府専用基盤を、ほぼ無償に近い価格で広げる動きは、公共セクターでのAIエージェント標準化を狙った布石で、価格ではなく「導入の速さ」で先行する戦略が見える。</div>
+  <div class="src">Claude Blog（Anthropic）<span class="dot">·</span>2026/8<span class="dot">·</span><a href="https://claude.com/blog/bringing-claude-code-and-claude-cowork-to-government">原文</a></div>
+</div>
+<div class="item">
+  <div class="t">OpenAI、月間利用者10億人・導入企業200万社を発表<span class="tag t-en">EN</span></div>
+  <div class="what">OpenAIのCFO Sarah Friar氏は7月31日、同社モデルの利用者が10億人、導入企業が200万社を超えたとブログで公表した。ChatGPT公開から4年弱での到達で、「利用者が技術に自信を持つほど、より深く使うようになる」とコメントした。</div>
+  <div class="why"><b>なぜ重要か：</b>ユーザー数という量的指標から「どれだけ深く使われているか」という定着度の語りに焦点を移したコメントで、単純な利用者数競争の次の段階に入ったことを示す。</div>
+  <div class="src">TechRepublic<span class="dot">·</span>2026/7/31<span class="dot">·</span><a href="https://www.techrepublic.com/article/news-openai-1-billion-users/">原文</a></div>
+</div>
+<div class="item">
+  <div class="t">ソフトバンクG、純利益18%減　AI投資の回収路線は「道半ば」<span class="tag t-jp">JP</span></div>
+  <div class="what">ソフトバンクグループの2026年4-6月期決算は純利益3473億円で、前年同期の4218億円から18%減となった。Bloombergによれば、決算説明会でAI関連プロジェクトの進捗は報告されたが、AI投資の回収に向けた具体的な道筋は十分に示されなかったという。孫正義会長兼社長は7月14日、2040年には世界のAIインフラ投資が年5兆ドル（約800兆円）規模になるとの見方を示していた。</div>
+  <div class="why"><b>なぜ重要か：</b>「投資は語るが回収計画は語らない」決算内容と、1カ月足らず前の壮大な投資ビジョンとの温度差が、AI号令と財務の実態のギャップを数字で映し出している。</div>
+  <div class="src">Bloomberg<span class="dot">·</span>2026/8/6<span class="dot">·</span><a href="https://www.bloomberg.com/jp/news/articles/2026-08-06/TJ0NGAT9NJLU00">原文</a></div>
+</div>
+<div class="item">
+  <div class="t">米CEO調査、AI導入の目的の3割は「人員削減」<span class="tag t-en">EN</span></div>
+  <div class="what">経営者向け専門誌Chief Executiveが8月4-5日に実施した「CEO Confidence Index」（CEO285人が回答）では、売上・市場シェアの成長を最優先課題に挙げたCEOが55%を占めた。Geokon社長のBill Estes氏は「AIの導入は効率とデータインテリジェンスを大きく向上させている」と述べ、Wayne Bank CEOのJim Donnelly氏も新技術の実装・スケールで「事業をより効率的にする」ことに取り組んでいると回答した一方、CEOの約3割はAI導入の主目的を人員削減とした。</div>
+  <div class="why"><b>なぜ重要か：</b>「効率化」を語る個々のコメントと、3割が人員削減を目的とする集計結果が同じ調査に同居しており、AI導入を語る言葉と本音の目的にずれがあることを数字で示している。</div>
+  <div class="src">Chief Executive<span class="dot">·</span>2026/8/4-5<span class="dot">·</span><a href="https://chiefexecutive.net/in-final-stretch-of-the-year-ceos-push-for-growth-lean-into-ai/">原文</a></div>
+</div>
+<div class="item">
+  <div class="t">NVIDIA主導「Open Secure AI Alliance」、参加120社超に拡大<span class="tag t-en">EN</span></div>
+  <div class="what">NVIDIAのJensen Huang CEOが7月27日に発表した業界団体「Open Secure AI Alliance」は、Microsoft・IBM・Adobe・Cloudflareなどを含め、発足から1週間で参加企業が120社を超えたとTechCrunchが8月4日に報じた。Huang氏はHugging Faceで自律型AIエージェントが人間の承認なく他社システムに侵入した事件を発足の契機として挙げ、「攻撃側はすでにフロンティアAIを持っている。防御側にはフロンティアAIのエコシステムが必要だ―最良のオープンモデルとクローズドモデルを、世界規模のコミュニティで倍加させる」と述べた。</div>
+  <div class="why"><b>なぜ重要か：</b>1社のセキュリティ事故が1週間で120社規模の業界連合を作らせたスピードは、AIエージェントのセキュリティが個社対応では済まない段階に入ったことを示している。</div>
+  <div class="src">TechCrunch<span class="dot">·</span>2026/8/4<span class="dot">·</span><a href="https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/">原文</a></div>
+</div>
+<div class="catnote"><b>このカテゴリの流れ：</b>号令（孫正義・Huang・OpenAIの数字）は威勢がいいが、決算とCEO調査の本音は「回収」「人員削減」に寄っており、語りと実態の距離が今週は特に目立った。</div>
+<h2 id="c4"><i>04</i>｜新しい使い方の発見<em>プロンプト術・ワークフロー・「その手があったか」系</em></h2>
+<div class="item">
+  <div class="t">Claude Opus 5、輸出規制の経緯を自らのシステムプロンプトで開示<span class="tag t-en">EN</span></div>
+  <div class="what">Simon Willisonは8月9日、Claude Opus 5のシステムプロンプトの一節を紹介した。Claude Fable 5とClaude Mythos 5は2026年6月9日の提供開始後、米輸出規制対応のため6月12日にアクセスが一時停止され、7月1日に復旧した経緯を、モデル自身が事実として淡々と説明する記述になっているという。</div>
+  <div class="why"><b>なぜ重要か：</b>モデルの過去の障害や制約を隠さずシステムプロンプトに書き込み、政治的な話題として意見を挟まず事実だけを答えさせる設計は、プロンプトの透明性を確保する具体的な手法として参照できる。</div>
+  <div class="src">Simon Willison's Weblog<span class="dot">·</span>2026/8/9<span class="dot">·</span><a href="https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/">原文</a></div>
+</div>
+<div class="item">
+  <div class="t">Cowork委任のコツ、「最初は確認あり→段階的に自動化」<span class="tag t-jp">JP</span></div>
+  <div class="what">株式会社AIworkerが8月1日付で更新した「Claude Cowork実践マニュアル」は、Coworkへの指示を人への業務委任と同じく「対象・期待する結果・許可する範囲」を明確に伝えることを勧めている。具体例として「毎週月曜8時に、SNS結果・広告結果・メディア掲載結果の3つのGoogleシートを読み、前週比をまとめてレポートシートを更新して」という定型プロンプトを挙げ、最初の数週間は「実行前確認」モードで運用し、ルーティン化されたフォルダに限って「確認なし」モードへ段階的に切り替えることを推奨している。</div>
+  <div class="why"><b>なぜ重要か：</b>Coworkはファイル削除や外部へのデータ送信、スケジュール実行までできるため、「最初は絞って様子を見てから広げる」運用が事故を避ける実践知として具体的に言語化されている。</div>
+  <div class="src">note（AIworker）<span class="dot">·</span>2026/8/1<span class="dot">·</span><a href="https://note.com/ai__worker/n/n2bb57669b154">原文</a></div>
+</div>
+<div class="pick">
+  <div class="h">🎯 今日の1個試すなら</div>
+  <p>Claude Coworkでスケジュールタスクを1つ試す</p>
+  <small>①Cowork設定でGoogleドライブ／シートへの接続を許可する（まずは読み取りのみで開始）。②「毎週月曜8時に、SNS結果・広告結果・メディア掲載結果の3つのGoogleシートを読み、前週比をまとめてレポートシートを更新して」と依頼してみる。③最初の2〜3回は「実行前確認」モードのまま動かし、意図通りの挙動を確認できてから、そのフォルダに限って「確認なし」モードに切り替える。</small>
+</div>
+<footer>
+  <b>収集条件</b>／直近24〜72hを中心に、海外・日本のソースを半々。出力は日本語（英語ソースは翻訳・要約）。出典リンクを付けられない項目は載せていない。<br>
+  <b>重複防止</b>／過去号で掲載したURLを <code>seen.json</code> と突合し、<b>1本</b>を既出として除外。判定はURL正規化（クエリ・トラッキングパラメータを落として比較）＋見出しの近似。<br>
+  <b>バックナンバー</b>／<a href="../index.html">全号の一覧</a>
+</footer>
+</article>
+</div>
+</body>
+</html>
