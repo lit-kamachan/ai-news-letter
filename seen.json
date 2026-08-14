@@ -1,0 +1,21 @@
+{
+  "issues": [
+    {
+      "date": "2026-08-14",
+      "no": 1,
+      "count": 9,
+      "lead": "モデル公開ラッシュの裏で、企業側の焦点は「使うこと」から「成果への転換」に移り始めた。"
+    }
+  ],
+  "urls": [
+    "unite.ai/deepseek-ships-v4-pro-as-its-flagship-model-leaves-preview",
+    "itmedia.co.jp/aiplus/article/2608/12/2000000503",
+    "techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models",
+    "9to5mac.com/2026/08/12/claude-cowork-chrome",
+    "techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users",
+    "mixi.co.jp/news/2026/0731/55421",
+    "prtimes.jp/main/html/rd/p/000000130.000026996.html",
+    "tech-blog.cluster.mu/entry/2026/08/07",
+    "claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models"
+  ]
+}
