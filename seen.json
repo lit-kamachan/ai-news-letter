@@ -11,9 +11,27 @@
       "no": 2,
       "count": 16,
       "lead": "「導入した」から「権限をどう絞り、何を回収できたか」へ―AI活用の物差しが一段階先に進んだ一週間。"
+    },
+    {
+      "date": "2026-08-16",
+      "no": 3,
+      "count": 12,
+      "lead": "エージェントが常時稼働するのが当たり前になるほど、監査・セーフガード・資金調達という「後から整える仕組み」の整備が急ピッチで進んだ一週間。"
     }
   ],
   "urls": [
+    "techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
+    "nikkei.com/article/DGXZQOGM144JU0U6A810C2000000",
+    "forest.watch.impress.co.jp/docs/news/2132553",
+    "unite.ai/anthropic-retunes-fable-5s-biology-safeguards-cutting-blocked-queries-85",
+    "itmedia.co.jp/aiplus/article/2608/12/2000000505",
+    "claude.com/blog/how-anthropics-business-development-team-uses-claude-to-run-inbound-and-outbound-at-scale",
+    "claude.com/blog/claude-tag-now-reads-even-more-of-the-room",
+    "claude.com/blog/compliance-api-cowork-and-claude-code",
+    "techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push",
+    "techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus",
+    "qiita.com/berrylove/items/e5df42c20e0b23b07f71",
+    "simonwillison.net/2026/Aug/11/stealing-reasoning-traces",
     "unite.ai/deepseek-ships-v4-pro-as-its-flagship-model-leaves-preview",
     "itmedia.co.jp/aiplus/article/2608/12/2000000503",
     "techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models",
