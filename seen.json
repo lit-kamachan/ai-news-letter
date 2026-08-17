@@ -17,9 +17,29 @@
       "no": 3,
       "count": 12,
       "lead": "エージェントが常時稼働するのが当たり前になるほど、監査・セーフガード・資金調達という「後から整える仕組み」の整備が急ピッチで進んだ一週間。"
+    },
+    {
+      "date": "2026-08-17",
+      "no": 4,
+      "count": 14,
+      "lead": "Grok・Qwen・Muse Glimmerが同時多発的に並ぶ一方、現場の生成AI起動は67.1%がなお「人が起点」――性能競争と活用実態のギャップが数字で浮き彫りになった一週間。"
     }
   ],
   "urls": [
+    "itmedia.co.jp/news/article/2608/13/2000000520",
+    "itmedia.co.jp/aiplus/article/2608/15/2000000554",
+    "venturebeat.com/technology/openai-launches-gpt-5-6-cyber-with-reduced-refusals-95-completion-on-advanced-cybersecurity-tasks",
+    "siliconangle.com/2026/08/10/meta-releases-open-source-muse-glimmer-model-30b-parameters",
+    "9to5mac.com/2026/08/06/openai-updating-chatgpt-with-a-smarter-gpt-5-6-sol-and-unlimited-free-chats",
+    "digital-gorilla.co.jp/ai-lab/anthropic-claude-cowork-mobile-web-90-percent-non-coding",
+    "claude.com/customers/notability",
+    "techtimes.com/articles/321781/20260728/cognizant-launches-emea-ai-unit-enterprise-agent-pilots-fail-scale.htm",
+    "nikkei.com/article/DGXZQOCC130SP0T10C26A8000000",
+    "prtimes.jp/main/html/rd/p/000000209.000033941.html",
+    "prtimes.jp/main/html/rd/p/000000052.000054314.html",
+    "openai.com/index/how-enterprises-put-ai-to-work",
+    "claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+    "itmedia.co.jp/aiplus/article/2608/09/2000000466",
     "techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
     "nikkei.com/article/DGXZQOGM144JU0U6A810C2000000",
     "forest.watch.impress.co.jp/docs/news/2132553",
