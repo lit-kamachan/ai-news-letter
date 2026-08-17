@@ -23,6 +23,12 @@
       "no": 4,
       "count": 14,
       "lead": "Grok・Qwen・Muse Glimmerが同時多発的に並ぶ一方、現場の生成AI起動は67.1%がなお「人が起点」――性能競争と活用実態のギャップが数字で浮き彫りになった一週間。"
+    },
+    {
+      "date": "2026-08-18",
+      "no": 5,
+      "count": 7,
+      "lead": "Anthropicが黒字化と2兆ドルIPO計画を同時に開示する一方、非公開の内部モデルの存在まで自ら明かした――収益・安全性の両面で情報公開の踏み込みが目立った一週間。"
     }
   ],
   "urls": [
@@ -76,6 +82,13 @@
     "chiefexecutive.net/in-final-stretch-of-the-year-ceos-push-for-growth-lean-into-ai",
     "techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress",
     "simonwillison.net/2026/aug/9/claude-opus-5-system-prompt",
-    "note.com/ai__worker/n/n2bb57669b154"
+    "note.com/ai__worker/n/n2bb57669b154",
+    "anthropic.com/aug-2026-risk-report",
+    "itmedia.co.jp/aiplus/article/2608/13/2000000533",
+    "kingy.ai/ai-launch-tracker/google-will-shut-down-three-imagen-4-api-models-august-17",
+    "bloomberg.com/news/articles/2026-08-14/anthropic-revenue-ahead-of-ipo-surges-over-14-fold-in-second-quarter",
+    "fortune.com/2026/08/13/anthropic-ipo-2-trillion-october-largest-ever-spacex",
+    "benzinga.com/markets/tech/26/08/61239248/anthropic-dario-amodei-private-company-criticism",
+    "qiita.com/skillselion/items/d61adafc9d4457d10d90"
   ]
 }
