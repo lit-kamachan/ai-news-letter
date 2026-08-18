@@ -29,6 +29,12 @@
       "no": 5,
       "count": 7,
       "lead": "Anthropicが黒字化と2兆ドルIPO計画を同時に開示する一方、非公開の内部モデルの存在まで自ら明かした――収益・安全性の両面で情報公開の踏み込みが目立った一週間。"
+    },
+    {
+      "date": "2026-08-19",
+      "no": 6,
+      "count": 14,
+      "lead": "Stripeが710億ドル超でAIモデルへの入口（OpenRouter）を買収し、NECは部門そのものをAIに担わせる組織を新設――「どのモデルを使うか」から「何をAIに手放すか」へ、主語が入れ替わった一週間。"
     }
   ],
   "urls": [
@@ -89,6 +95,20 @@
     "bloomberg.com/news/articles/2026-08-14/anthropic-revenue-ahead-of-ipo-surges-over-14-fold-in-second-quarter",
     "fortune.com/2026/08/13/anthropic-ipo-2-trillion-october-largest-ever-spacex",
     "benzinga.com/markets/tech/26/08/61239248/anthropic-dario-amodei-private-company-criticism",
-    "qiita.com/skillselion/items/d61adafc9d4457d10d90"
+    "qiita.com/skillselion/items/d61adafc9d4457d10d90",
+    "alibabacloud.com/blog/alibaba-unveils-qwen3-8-27b-and-releases-weights-of-qwen3-8-flagship-model_603463",
+    "marktechpost.com/2026/07/31/deepseek-upgrades-deepseek-v4-flash-0731-with-major-agentic-and-coding-gains",
+    "github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
+    "techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b",
+    "claude.com/blog/how-people-are-using-claude-cowork",
+    "claude.com/customers/thomson-reuters-qa",
+    "claude.com/customers/brainlabs",
+    "claude.com/blog/how-an-anthropic-sales-leader-uses-claude-cowork-to-run-a-4-000-account-book",
+    "claude.com/blog/how-anthropics-marketing-operations-team-uses-claude-cowork-to-automate-reporting-and-campaign-builds",
+    "jpn.nec.com/press/202608/20260810_01.html",
+    "fortune.com/2026/08/07/fortune-500-power-moves-august-1-7",
+    "fortune.com/2026/08/13/tech-ceos-ai-manifesto-zuckerberg-amodei-readership",
+    "maxicontieri.substack.com/p/ai-coding-tip-030-script-your-skills",
+    "simonwillison.net/2026/aug/16/markdown-svg-upgrades"
   ]
 }
