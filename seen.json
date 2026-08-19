@@ -35,6 +35,12 @@
       "no": 6,
       "count": 14,
       "lead": "Stripeが710億ドル超でAIモデルへの入口（OpenRouter）を買収し、NECは部門そのものをAIに担わせる組織を新設――「どのモデルを使うか」から「何をAIに手放すか」へ、主語が入れ替わった一週間。"
+    },
+    {
+      "date": "2026-08-20",
+      "no": 7,
+      "count": 12,
+      "lead": "OpenAIが「データを見ずに不正を検知する」仕組みを試験提供し、NVIDIAはOpenAIのデータセンターに1050億ドルを保証する一方、千葉銀行と日立はAIエージェント導入の効果を「労働力2,000人分」「生産性30%」という経営計画の数字に落とし込んだ――投資と成果指標の両方が具体化した一週間。"
     }
   ],
   "urls": [
@@ -109,6 +115,18 @@
     "fortune.com/2026/08/07/fortune-500-power-moves-august-1-7",
     "fortune.com/2026/08/13/tech-ceos-ai-manifesto-zuckerberg-amodei-readership",
     "maxicontieri.substack.com/p/ai-coding-tip-030-script-your-skills",
-    "simonwillison.net/2026/aug/16/markdown-svg-upgrades"
+    "simonwillison.net/2026/aug/16/markdown-svg-upgrades",
+    "axios.com/2026/08/19/openai-previews-zero-retention-safety-system-as-anthropic-requires-data-logs",
+    "techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach",
+    "venturebeat.com/technology/glm-5-3-is-here-with-advanced-cyber-capabilities-and-reportedly-already-found-a-serious-vulnerability-in-cursor",
+    "x.ai/news/grok-4-6",
+    "cnbc.com/2026/08/17/nvidia-financing-open-ai-data-center-ohio.html",
+    "claude.com/customers/cyera",
+    "9to5mac.com/2026/08/18/anthropic-says-claude-cowork-is-now-available-on-mobile-for-all-paid-plans",
+    "salesforce.com/jp/news/press-releases/2026/08/10/chiba-bank-customer-new",
+    "ntt.com/about-us/press-releases/news/article/2026/0817.html",
+    "prtimes.jp/main/html/rd/p/000000605.000067590.html",
+    "note.com/kawaidesign/n/ne7bbae7d0b1a",
+    "zenn.dev/katsuo_dev/articles/202608-claude-code-zenn-automation"
   ]
 }
