@@ -41,6 +41,12 @@
       "no": 7,
       "count": 12,
       "lead": "OpenAIが「データを見ずに不正を検知する」仕組みを試験提供し、NVIDIAはOpenAIのデータセンターに1050億ドルを保証する一方、千葉銀行と日立はAIエージェント導入の効果を「労働力2,000人分」「生産性30%」という経営計画の数字に落とし込んだ――投資と成果指標の両方が具体化した一週間。"
+    },
+    {
+      "date": "2026-08-21",
+      "no": 8,
+      "count": 12,
+      "lead": "OpenAIはAstraの安全停止、Anthropicは操作系APIの正式版格上げ――「攻めるAI」と「止めるAI」が同じ週に並んだ。"
     }
   ],
   "urls": [
@@ -127,6 +133,18 @@
     "ntt.com/about-us/press-releases/news/article/2026/0817.html",
     "prtimes.jp/main/html/rd/p/000000605.000067590.html",
     "note.com/kawaidesign/n/ne7bbae7d0b1a",
-    "zenn.dev/katsuo_dev/articles/202608-claude-code-zenn-automation"
+    "zenn.dev/katsuo_dev/articles/202608-claude-code-zenn-automation",
+    "platform.claude.com/docs/en/release-notes/overview",
+    "axios.com/2026/08/18/openai-pause-astra-preparedness-framework",
+    "technode.com/2026/08/20/bytedance-reorganizes-seed-foundation-model-team-amid-reported-5-trillion-parameter-model-plans",
+    "blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
+    "aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-web",
+    "portal.spotify.com/blog/introducing-xirp",
+    "news.aakashg.com/p/claude-code-team-os",
+    "techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust",
+    "news.infoseek.co.jp/article/prtimes_000000264_000017610",
+    "finance.yahoo.com/technology/ai/articles/net-q2-earnings-call-highlights-140000285",
+    "simonwillison.net/2026/Aug/16/markdown-svg-upgrades",
+    "lennysnewsletter.com/p/computer-and-browser-use-in-codex"
   ]
 }
