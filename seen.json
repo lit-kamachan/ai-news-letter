@@ -47,6 +47,12 @@
       "no": 8,
       "count": 12,
       "lead": "OpenAIはAstraの安全停止、Anthropicは操作系APIの正式版格上げ――「攻めるAI」と「止めるAI」が同じ週に並んだ。"
+    },
+    {
+      "date": "2026-08-22",
+      "no": 9,
+      "count": 14,
+      "lead": "OpenAIが年齢推定でティーン保護を自動適用し、AnthropicはClaude Mythos 5をセキュリティ防御側へ解放――「守るAI」の実装が一斉に動く一方、DeepSeekの低価格モデルが上位モデルの性能に接近した一日。"
     }
   ],
   "urls": [
@@ -145,6 +151,20 @@
     "news.infoseek.co.jp/article/prtimes_000000264_000017610",
     "finance.yahoo.com/technology/ai/articles/net-q2-earnings-call-highlights-140000285",
     "simonwillison.net/2026/Aug/16/markdown-svg-upgrades",
-    "lennysnewsletter.com/p/computer-and-browser-use-in-codex"
+    "lennysnewsletter.com/p/computer-and-browser-use-in-codex",
+    "unite.ai/openai-launches-chatgpt-for-teens-with-default-protections-and-learning-tools",
+    "x.ai/news/grok-bot-more-plans",
+    "api-docs.deepseek.com/news/news260821",
+    "claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
+    "forest.watch.impress.co.jp/docs/news/2132571.html",
+    "claude.com/blog/how-anthropic-secures-its-ai-native-software-development-lifecycle",
+    "claude.com/blog/ai-ci-cd-on-call",
+    "claude.com/blog/claude-and-slack",
+    "pwc.com/gx/en/1/issues/c-suite-insights/ceo-survey/snapshot-august-2026.html",
+    "techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates",
+    "innovatopia.jp/ai/ai-news/114300",
+    "simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox",
+    "claude.com/blog/anthropics-approach-to-teaching-and-learning-ai",
+    "techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds"
   ]
 }
