@@ -53,6 +53,12 @@
       "no": 9,
       "count": 14,
       "lead": "OpenAIが年齢推定でティーン保護を自動適用し、AnthropicはClaude Mythos 5をセキュリティ防御側へ解放――「守るAI」の実装が一斉に動く一方、DeepSeekの低価格モデルが上位モデルの性能に接近した一日。"
+    },
+    {
+      "date": "2026-08-23",
+      "no": 10,
+      "count": 6,
+      "lead": "Anthropicが蛋白質結合剤設計で業界平均の2倍超の的中率を実測した一方、素性を明かさない「ステルスモデル」OX Alphaがベンチマーク上位を主張して現れた――再現可能な実測結果と、検証不能な話題性が同じ週に並んだ一日。"
     }
   ],
   "urls": [
@@ -165,6 +171,12 @@
     "innovatopia.jp/ai/ai-news/114300",
     "simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox",
     "claude.com/blog/anthropics-approach-to-teaching-and-learning-ai",
-    "techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds"
+    "techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds",
+    "openrouter.ai/stealth/ox-alpha",
+    "anthropic.com/research/Claude-accelerates-protein-design",
+    "webtan.impress.co.jp/n/2026/08/21/53158",
+    "news.yahoo.co.jp/articles/8ccd18fda51a2c331dca44943275d9a5b3eb6755",
+    "news.mynavi.jp/techplus/article/20260821-4847094",
+    "simonwillison.net/2026/Aug/21/stop-making-tuis"
   ]
 }
