@@ -59,6 +59,12 @@
       "no": 10,
       "count": 6,
       "lead": "Anthropicが蛋白質結合剤設計で業界平均の2倍超の的中率を実測した一方、素性を明かさない「ステルスモデル」OX Alphaがベンチマーク上位を主張して現れた――再現可能な実測結果と、検証不能な話題性が同じ週に並んだ一日。"
+    },
+    {
+      "date": "2026-08-24",
+      "no": 11,
+      "count": 10,
+      "lead": "Nvidiaの検証でClaude Opus 5がARC-AGI-3を「ハーネス次第で100%」まで押し上げた一方、Anthropicはcomputer use・Skills API・Files APIを同日に正式版へ格上げした――モデル単体の性能競争から、モデルを使い切る仕組みの整備競争へ、焦点が移った一日。"
     }
   ],
   "urls": [
@@ -177,6 +183,16 @@
     "webtan.impress.co.jp/n/2026/08/21/53158",
     "news.yahoo.co.jp/articles/8ccd18fda51a2c331dca44943275d9a5b3eb6755",
     "news.mynavi.jp/techplus/article/20260821-4847094",
-    "simonwillison.net/2026/Aug/21/stop-making-tuis"
+    "simonwillison.net/2026/Aug/21/stop-making-tuis",
+    "techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero",
+    "claude.com/blog/computer-use-skills-api-files-api",
+    "help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "code.claude.com/docs/en/changelog",
+    "claude.com/blog/how-monday-com-transformed-its-platform-into-an-agent-first-product-where-humans-and-agents-collaborate",
+    "claude.com/blog/turning-conversation-into-knowledge-how-slack-builds-human-agent-teams",
+    "prtimes.jp/main/html/rd/p/000000055.000109048.html",
+    "businessinsider.jp/article/2608anthropic-ceo-dario-amodei-ai-public-opinion-cure-cancer",
+    "fool.com/investing/2026/08/18/satya-nadella-sees-profitable-microsoft-ai-chips",
+    "claude.com/blog/the-ai-native-sdlc-playbook"
   ]
 }

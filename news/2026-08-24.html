@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta name="theme-color" content="#FFFFFF">
+<title>AIニュースレター｜2026/8/24（月）</title>
+<style>
+:root{--ink:#16191C;--body:#2A2E33;--gray:#8B95A1;--line:#E3E6E8;--blue:#0F8BFF;--red:#E8482E;--fig:#EDEFF0;--figh:#3C4650;}
+*{box-sizing:border-box;-webkit-text-size-adjust:100%;}
+html,body{margin:0;padding:0;background:#fff;}
+body{color:var(--body);font-family:-apple-system,BlinkMacSystemFont,"Hiragino Kaku Gothic ProN","Noto Sans JP","Yu Gothic",sans-serif;font-size:15px;line-height:1.85;letter-spacing:.015em;overflow-x:hidden;}
+.wrap{max-width:420px;margin:0 auto;padding-bottom:calc(env(safe-area-inset-bottom) + 40px);}
+.hero{padding:0;--art-bg:#EDE7DE;--art-accent:#0F8BFF;}
+.hero.w-mon{--art-bg:#DDE8F0;--art-accent:#0F6FDE;}
+.hero.w-tue{--art-bg:#EDE7DE;--art-accent:#E8742E;}
+.hero.w-wed{--art-bg:#E2EDE4;--art-accent:#1E9E5A;}
+.hero.w-thu{--art-bg:#EBE2EC;--art-accent:#8B5CD6;}
+.hero.w-fri{--art-bg:#F3EAB6;--art-accent:#C98A06;}
+.hero.w-sat,.hero.w-sun{--art-bg:#E9E9E9;--art-accent:#7B858F;}
+.hero svg{display:block;width:100%;height:auto;}
+.head{padding:20px 18px 0;}
+.pubdate{font-size:12px;color:var(--gray);font-variant-numeric:tabular-nums;}
+h1{margin:3px 0 0;color:var(--ink);font-size:23px;font-weight:800;line-height:1.5;letter-spacing:-.02em;}
+.lead{margin:10px 0 0;font-size:14.5px;font-weight:700;color:var(--ink);line-height:1.7;}
+.byline{display:flex;align-items:center;gap:8px;margin:14px 0 0;}
+.byline .av{width:34px;height:34px;border-radius:50%;flex:none;background:#E9ECEF;color:#5B6672;display:flex;align-items:center;justify-content:center;font-size:12px;font-weight:800;}
+.byline b{display:block;font-size:12.5px;color:var(--ink);font-weight:700;line-height:1.5;}
+.byline span{display:block;font-size:10.5px;color:var(--gray);line-height:1.5;}
+.summary{margin:20px 18px 0;border-left:4px solid var(--blue);padding:9px 0 9px 13px;}
+.summary .h{font-size:10.5px;font-weight:800;color:var(--blue);letter-spacing:.06em;}
+.summary ul{margin:5px 0 0;padding-left:17px;}
+.summary li{font-size:13px;line-height:1.7;color:var(--ink);font-weight:600;margin-top:3px;}
+.metrics{display:flex;margin:18px 18px 0;border:1px solid var(--line);}
+.metrics div{flex:1;padding:10px 4px 9px;text-align:center;border-left:1px solid var(--line);}
+.metrics div:first-child{border-left:0;}
+.metrics b{display:block;font-size:21px;font-weight:800;color:var(--ink);font-variant-numeric:tabular-nums;letter-spacing:-.03em;line-height:1.25;}
+.metrics span{display:block;font-size:10px;color:var(--gray);line-height:1.4;}
+article{padding:8px 18px 0;}
+h2{margin:32px 0 14px;padding-top:16px;border-top:1px solid var(--line);color:var(--ink);font-size:17.5px;font-weight:800;line-height:1.6;letter-spacing:-.01em;}
+h2 i{font-style:normal;font-variant-numeric:tabular-nums;}
+h2 em{font-style:normal;font-size:11px;color:var(--gray);font-weight:400;margin-left:6px;}
+.index{border:1px solid var(--line);border-radius:3px;margin:22px 0 4px;}
+.index .t{font-size:12.5px;font-weight:700;color:var(--ink);padding:10px 14px;}
+.index a{display:block;border-top:1px solid var(--line);padding:9px 14px;font-size:13px;line-height:1.6;color:var(--body);text-decoration:none;}
+.index a i{font-style:normal;color:var(--gray);font-variant-numeric:tabular-nums;margin-right:2px;}
+.index a b{float:right;font-size:11.5px;color:var(--gray);font-weight:700;font-variant-numeric:tabular-nums;}
+.item{border-bottom:1px solid var(--line);padding:15px 0 14px;}
+.item:last-child{border-bottom:0;}
+.item .t{font-size:14.5px;font-weight:700;color:var(--ink);line-height:1.6;}
+.item .what{font-size:12.5px;line-height:1.8;color:#3A424C;margin-top:5px;}
+.item .why{font-size:12.5px;line-height:1.8;color:#4C5560;margin-top:7px;padding-left:11px;border-left:2px solid var(--line);}
+.item .why b{color:var(--ink);font-weight:700;}
+.item .src{font-size:10.5px;color:var(--gray);margin-top:6px;}
+.item .src a{color:var(--blue);text-decoration:none;font-weight:600;}
+.item .src .dot{margin:0 5px;opacity:.5;}
+.tag{display:inline-block;font-size:9.5px;font-weight:800;padding:1px 4px;border-radius:2px;color:#fff;white-space:nowrap;margin-left:4px;vertical-align:1px;}
+.t-jp{background:var(--figh);} .t-en{background:#AEB6BE;}
+.catnote{margin:16px -18px 0;background:var(--fig);padding:12px 18px;font-size:11.5px;line-height:1.8;color:#4C5560;}
+.catnote b{color:var(--ink);font-weight:700;}
+.pick{margin:28px -18px 0;background:var(--fig);padding:15px 18px 14px;border-top:3px solid var(--ink);}
+.pick .h{font-size:10.5px;font-weight:800;color:var(--ink);letter-spacing:.06em;}
+.pick p{margin:5px 0 0;font-size:14px;font-weight:700;color:var(--ink);line-height:1.7;}
+.pick small{display:block;margin-top:5px;font-size:11.5px;color:#5B6672;font-weight:400;line-height:1.8;}
+footer{margin:30px 18px 0;padding-top:14px;border-top:1px solid var(--line);font-size:10.5px;color:var(--gray);line-height:1.9;}
+footer b{color:#5B6672;}
+footer a{color:var(--blue);text-decoration:none;font-weight:600;}
+</style>
+</head>
+<body>
+<div class="wrap">
+<div class="hero w-mon">
+<svg viewBox="0 0 420 372" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="新聞と電波の線画">
+  <rect width="420" height="372" fill="var(--art-bg)"/>
+  <g fill="none" stroke="#1B1B1B" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 108c-14-14-14-38 0-52"/>
+    <path d="M92 122c-24-24-24-66 0-90" opacity=".55"/>
+    <path d="M120 136c-34-34-34-94 0-128" opacity=".3"/>
+    <path d="M150 150h206a8 8 0 0 1 8 8v148a8 8 0 0 1-8 8H150z" fill="#fff"/>
+    <rect x="112" y="168" width="196" height="146" rx="8" fill="#fff"/>
+    <path d="M134 196h152" stroke-width="4.6"/>
+    <rect x="134" y="216" width="52" height="38" rx="3" fill="var(--art-accent)" stroke="none"/>
+    <path d="M198 224h88" stroke-width="3" opacity=".8"/>
+    <path d="M198 244h72" stroke-width="3" opacity=".8"/>
+    <path d="M134 274h152" stroke-width="3" opacity=".8"/>
+    <path d="M134 294h108" stroke-width="3" opacity=".8"/>
+    <path d="M24 332h372" stroke-width="3.8"/>
+  </g>
+  <polygon points="0,372 420,372 420,326 0,356" fill="#fff"/>
+</svg>
+</div>
+<div class="head">
+  <div class="pubdate">2026/8/24（月）・第11号</div>
+  <h1>AIニュースレター</h1>
+  <p class="lead">Nvidiaの検証でClaude Opus 5がARC-AGI-3を「ハーネス次第で100%」まで押し上げた一方、Anthropicはcomputer use・Skills API・Files APIを同日に正式版へ格上げした――モデル単体の性能競争から、モデルを使い切る仕組みの整備競争へ、焦点が移った一日。</p>
+  <div class="byline">
+    <span class="av">か</span>
+    <span><b>かまちゃん宛</b><span>Claude が自動収集・既出は除外済み</span></span>
+  </div>
+</div>
+<div class="summary">
+  <div class="h">この号の要点</div>
+  <ul>
+    <li>Nvidiaの研究で、性能の差はモデルでなく「ハーネス」設計で決まることが実証された。</li>
+    <li>Anthropicはエージェント構築の基盤3つ（computer use・Skills API・Files API）を同日にGA化した。</li>
+    <li>monday.com・Slack・山形銀行と、SaaS／地方銀行の双方でagent-first型の実装が具体化した。</li>
+  </ul>
+</div>
+<div class="metrics">
+  <div><b>10</b><span>掲載本数</span></div>
+  <div><b>14</b><span>既出で除外</span></div>
+  <div><b>4</b><span>カテゴリ</span></div>
+</div>
+<article>
+<div class="index">
+  <div class="t">▼ INDEX</div>
+  <a href="#c1"><i>01</i>｜モデル・リリース速報<b>4本</b></a>
+  <a href="#c2"><i>02</i>｜Cowork中心の活用事例<b>2本</b></a>
+  <a href="#c3"><i>03</i>｜組織導入 × トップの発言<b>3本</b></a>
+  <a href="#c4"><i>04</i>｜新しい使い方の発見<b>1本</b></a>
+</div>
+<h2 id="c1"><i>01</i>｜モデル・リリース速報<em>フロンティアモデルの新版・新機能</em></h2>
+<div class="item">
+  <div class="t">Nvidia、「ハーネス次第でOpus 5がARC-AGI-3満点」と実証<span class="tag t-en">EN</span></div>
+  <div class="what">Nvidiaの研究チームが、Claude Opus 5に専用のカスタムハーネス（実行の足場）を組み合わせたところ、長期タスク向けベンチマークARC-AGI-3で100%のスコアを記録したと公表した。モデル自体はAnthropicが7月にリリースしたOpus 5のまま変更していない。</div>
+  <div class="why"><b>なぜ重要か：</b>性能の差がモデルの重みでなく、ツール呼び出し・検証・再試行をどう設計するかという「ハーネス」側で生まれることを示した。今後のベンチマーク比較は、モデル単体でなくハーネスとセットで見る必要が出てくる。</div>
+  <div class="src">TechCrunch<span class="dot">·</span>2026/8/21<span class="dot">·</span><a href="https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/">原文</a></div>
+</div>
+<div class="item">
+  <div class="t">computer use・Skills API・Files APIが同日に正式版へ<span class="tag t-en">EN</span></div>
+  <div class="what">Anthropicは2026年8月19日、Claude Platformのcomputer use（新設のブラウザ操作ツール込み）、Agent Skills API、Files APIをまとめてベータから正式版へ格上げした。computer useは1ターンで複数の操作をまとめて実行できるバッチアクションに対応し、Files APIは保存ファイルへの有効期限設定に対応した。</div>
+  <div class="why"><b>なぜ重要か：</b>「エージェントに画面操作・再利用可能な手順・ファイル参照をさせる」ための基盤がそろって本番運用の対象になった。コンプライアンス要件の厳しい環境でもFiles APIが使いやすくなる。</div>
+  <div class="src">Claude（Anthropic公式ブログ）<span class="dot">·</span>2026/8/19<span class="dot">·</span><a href="https://claude.com/blog/computer-use-skills-api-files-api">原文</a></div>
+</div>
+<div class="item">
+  <div class="t">ChatGPT、時間認識と長文チャットの応答を高速化<span class="tag t-en">EN</span></div>
+  <div class="what">OpenAIは2026年8月22日付のChatGPTリリースノートで、会話中のローカル時刻をより正確に把握する「時間認識」の改善、長い会話の応答速度向上、プラグイン発見機能の改善を反映した。あわせてiOSの写真共有導線とAndroidの画像・最近のチャット閲覧も見直された。</div>
+  <div class="why"><b>なぜ重要か：</b>単発の新機能ではなく日々の細かな使い勝手の積み上げ。長時間の壁打ちや資料作成でChatGPTを使い込むユーザーほど、応答速度と文脈把握の改善を体感しやすい。</div>
+  <div class="src">OpenAI（ChatGPT Release Notes）<span class="dot">·</span>2026/8/22<span class="dot">·</span><a href="https://help.openai.com/en/articles/6825453-chatgpt-release-notes">原文</a></div>
+</div>
+<div class="item">
+  <div class="t">Claude Code v2.1.240、コスト表示とPython移行を強化<span class="tag t-en">EN</span></div>
+  <div class="what">Anthropicは2026年8月22日、Claude Codeをv2.1.240に更新した。データレジデンシー対応ワークスペース向けに/costやステータスバーのコスト見積もりが「米国内推論プレミアム(1.1倍)」を反映するようになり、Bedrock・Vertex・Foundryなど従来対象外だった環境にもフルスクリーン表示の案内が追加された。/claude-api upgradeコマンドでPythonのanthropicライブラリを0.x系から1.x系へ移行しやすくもなった。</div>
+  <div class="why"><b>なぜ重要か：</b>地味な更新の積み重ねだが、企業導入で気にされがちな「実際いくらかかるか」の可視化と、SDK世代交代への実務対応が同時に進んでいる。</div>
+  <div class="src">Claude Code Docs（公式changelog）<span class="dot">·</span>2026/8/22<span class="dot">·</span><a href="https://code.claude.com/docs/en/changelog">原文</a></div>
+</div>
+<div class="catnote"><b>このカテゴリの流れ：</b>新モデルの発表そのものより、「モデルをどう実行環境に組み込むか」（ハーネス・API・コスト可視化）の整備が主戦場になっている。</div>
+<h2 id="c2"><i>02</i>｜Cowork中心の活用事例<em>エージェント・社内導入のリアルな使い方</em></h2>
+<div class="item">
+  <div class="t">monday.com、「人とエージェントが並ぶ」前提に製品を再設計<span class="tag t-en">EN</span></div>
+  <div class="what">monday.comはAnthropicのブログで、自社プラットフォームをagent-first（エージェント前提）に転換した経緯を公開した。最高製品技術責任者ダニエル・レレヤ氏は「エージェントファーストへの転換は、これまでで最も大きな意思決定の一つだった」と述べ、Claudeを核に人とエージェントが同じワークスペースで協働するモデルへ作り替えたと説明している。</div>
+  <div class="why"><b>なぜ重要か：</b>AIチャットボットを機能として足すのでなく、製品アーキテクチャそのものを「人とエージェントの協働」前提に組み直した事例。既存SaaSがエージェント時代にどう構造転換するかの具体例になる。</div>
+  <div class="src">Claude（Anthropic公式ブログ）<span class="dot">·</span>2026/8/20<span class="dot">·</span><a href="https://claude.com/blog/how-monday-com-transformed-its-platform-into-an-agent-first-product-where-humans-and-agents-collaborate">原文</a></div>
+</div>
+<div class="item">
+  <div class="t">Slack、会話を「組織の知識」に変えるエージェント設計を公開<span class="tag t-en">EN</span></div>
+  <div class="what">Slackはchief product officerジェイミー・デランジ氏の説明として、日々の会話ログをエージェントが要約・構造化し、組織のナレッジとして再利用できる仕組みをClaudeとともに構築していることをAnthropicのブログで明らかにした。</div>
+  <div class="why"><b>なぜ重要か：</b>Slack上のやり取りは流れて消えていく情報になりがちだったが、それを検索可能な知識として残す設計は、Cowork活用の「議事録・引き継ぎ」領域に直結する。</div>
+  <div class="src">Claude（Anthropic公式ブログ）<span class="dot">·</span>2026/8/19<span class="dot">·</span><a href="https://claude.com/blog/turning-conversation-into-knowledge-how-slack-builds-human-agent-teams">原文</a></div>
+</div>
+<div class="catnote"><b>このカテゴリの流れ：</b>いずれも「AIを機能として足す」でなく「人とエージェントが同じワークスペースで働く」前提へ製品構造を組み替える動きで、Cowork活用の応用形として参考になる。</div>
+<h2 id="c3"><i>03</i>｜組織導入 × トップの発言<em>経営層のAI号令・方針・名言</em></h2>
+<div class="item">
+  <div class="t">山形銀行、neoAI Chatを全行展開<span class="tag t-jp">JP</span></div>
+  <div class="what">山形銀行は2026年8月より、neoAI提供の法人向け生成AIプラットフォーム「neoAI Chat」を全行で本格導入した。行内規程や業務マニュアルを営業店の行員がその場で瞬時に参照できるようにし、融資関連の事務手続き確認などの生産性向上を狙う。</div>
+  <div class="why"><b>なぜ重要か：</b>検索・参照業務という限定領域からのスタートだが、地方銀行が「全行展開」の規模でエージェント型ツールを本番運用に載せた事例として、他行の判断材料になる。</div>
+  <div class="src">neoAI（PR TIMES）<span class="dot">·</span>2026/8/10<span class="dot">·</span><a href="https://prtimes.jp/main/html/rd/p/000000055.000109048.html">原文</a></div>
+</div>
+<div class="item">
+  <div class="t">アモデイCEO「AIの実力、十分に伝えてこなかった」<span class="tag t-jp">JP</span></div>
+  <div class="what">Anthropicのダリオ・アモデイCEOは2026年8月15日、X（旧Twitter）への投稿で、AIに対する世間の不信感を変える方法は具体的な科学的ブレークスルーを実現することだけだと述べた。あわせて、AI企業がAIにできることを誇張する一方、実際の実力を十分に伝えてこなかった点を認めた。</div>
+  <div class="why"><b>なぜ重要か：</b>IPOを控えるAnthropicのトップ自らが「誇張」を認める発言をした点が異例。企業のAI導入担当者にとっても、期待値をどう設定するかの参考になる。</div>
+  <div class="src">Business Insider Japan<span class="dot">·</span>2026/8/15<span class="dot">·</span><a href="https://www.businessinsider.jp/article/2608anthropic-ceo-dario-amodei-ai-public-opinion-cure-cancer/">原文</a></div>
+</div>
+<div class="item">
+  <div class="t">ナデラCEO「自社AIチップで効率40%向上」<span class="tag t-en">EN</span></div>
+  <div class="what">Microsoftのサティア・ナデラCEOは2026年8月18日、自社設計のAIアクセラレータ（Maia世代）が、OpenAIのモデルに頼る場合に比べて最大40%の効率改善をもたらしていると述べた。</div>
+  <div class="why"><b>なぜ重要か：</b>OpenAIへの巨額投資を続けるMicrosoft自身が、自社チップでの内製化・効率化を数字で語った点が示唆的。AIインフラのコスト構造がどこで決まるかを経営トップが具体的に言語化した。</div>
+  <div class="src">The Motley Fool<span class="dot">·</span>2026/8/18<span class="dot">·</span><a href="https://www.fool.com/investing/2026/08/18/satya-nadella-sees-profitable-microsoft-ai-chips/">原文</a></div>
+</div>
+<div class="catnote"><b>このカテゴリの流れ：</b>地方銀行の全行導入という現場の動きと、経営トップの発言（誇張への反省、自社チップの効率化）が同じ週に並び、実装の地に足がついたフェーズに入りつつある。</div>
+<h2 id="c4"><i>04</i>｜新しい使い方の発見<em>プロンプト術・ワークフロー・「その手があったか」系</em></h2>
+<div class="item">
+  <div class="t">Anthropic、「AIネイティブSDLC」の実装手順を公開<span class="tag t-en">EN</span></div>
+  <div class="what">Anthropicは2026年8月21日、Louis Claxton氏名義で「The AI-Native SDLC playbook」を公開した。計画・設計・構築・テスト・デプロイ・保守の6段階それぞれで生成される成果物について、リポジトリを正データとする構成と、Jira等の既存システムを正データとしClaudeがMCP経由で読み書きする構成の2パターンを具体的に提示している。</div>
+  <div class="why"><b>なぜ重要か：</b>「エージェントに何をどこまで任せるか」より先に「どのシステムを正データとして扱うか」を決めないと、承認フローやレビュー体制が旧来のまま残り効果が出ない、という指摘。既存の開発プロセスをエージェント前提に組み替える際の具体的な設計図になる。</div>
+  <div class="src">Claude（Anthropic公式ブログ）<span class="dot">·</span>2026/8/21<span class="dot">·</span><a href="https://claude.com/blog/the-ai-native-sdlc-playbook">原文</a></div>
+</div>
+<div class="pick">
+  <div class="h">🎯 今日の1個試すなら</div>
+  <p>正式版になったSkills APIを使って、繰り返している定型業務を1つ「スキル」化してみる。</p>
+  <small>①普段Excelやスライド作成で使っている定型手順（例：週次レポートの整形）を、Claude Codeで /skill create &lt;名前&gt; を実行して指示文として書き出す。②生成されたSKILL.mdを開き、判断基準や避けたい失敗パターンを1〜2行ずつ追記する。③次に同じ作業を頼むときは通常の指示文の代わりにそのスキル名を呼び出し、毎回ゼロから説明し直す手間をなくす。</small>
+</div>
+<footer>
+  <b>収集条件</b>／直近24〜72hを中心に、海外・日本のソースを半々。出力は日本語（英語ソースは翻訳・要約）。出典リンクを付けられない項目は載せていない。<br>
+  <b>重複防止</b>／過去号で掲載したURLを <code>seen.json</code> と突合し、<b>14本</b>を既出として除外。判定はURL正規化（クエリ・トラッキングパラメータを落として比較）＋見出しの近似。<br>
+  <b>バックナンバー</b>／<a href="../index.html">全号の一覧</a>
+</footer>
+</article>
+</div>
+</body>
+</html>
