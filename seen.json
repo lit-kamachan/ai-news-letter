@@ -65,6 +65,12 @@
       "no": 11,
       "count": 10,
       "lead": "Nvidiaの検証でClaude Opus 5がARC-AGI-3を「ハーネス次第で100%」まで押し上げた一方、Anthropicはcomputer use・Skills API・Files APIを同日に正式版へ格上げした――モデル単体の性能競争から、モデルを使い切る仕組みの整備競争へ、焦点が移った一日。"
+    },
+    {
+      "date": "2026-08-25",
+      "no": 12,
+      "count": 7,
+      "lead": "OpenAIが月内2度目の値下げに動く一方、Claude Codeは権限を平易な文章で書けるガバナンス機能を追加――エージェントが増えるほど、性能競争より「何体・どこまで動かしてよいか」の設計が焦点になった一日。"
     }
   ],
   "urls": [
@@ -193,6 +199,13 @@
     "prtimes.jp/main/html/rd/p/000000055.000109048.html",
     "businessinsider.jp/article/2608anthropic-ceo-dario-amodei-ai-public-opinion-cure-cancer",
     "fool.com/investing/2026/08/18/satya-nadella-sees-profitable-microsoft-ai-chips",
-    "claude.com/blog/the-ai-native-sdlc-playbook"
+    "claude.com/blog/the-ai-native-sdlc-playbook",
+    "community.openai.com/t/20-price-reduction-for-gpt-5-6-sol-api-codex-credits-and-chatgpt-work/1391726",
+    "code.claude.com/docs/en/whats-new",
+    "claude.com/blog/how-abc-legal-turned-every-employee-into-a-builder-with-claude-managed-agents",
+    "claude.com/customers/deepgram",
+    "salesforce.com/news/stories/agentic-enterprise-index-insights-2026",
+    "simonwillison.net/2026/Aug/22/more-than-just-code-review",
+    "zenn.dev/yymm/articles/20260821-qiita-zenn-writing-setup"
   ]
 }
