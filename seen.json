@@ -71,6 +71,12 @@
       "no": 12,
       "count": 7,
       "lead": "OpenAIが月内2度目の値下げに動く一方、Claude Codeは権限を平易な文章で書けるガバナンス機能を追加――エージェントが増えるほど、性能競争より「何体・どこまで動かしてよいか」の設計が焦点になった一日。"
+    },
+    {
+      "date": "2026-08-26",
+      "no": 13,
+      "count": 14,
+      "lead": "OpenAIが自社推論チップでNvidia機を性能面で上回る一方、ChatGPT・Codexの利用制限は復活・再リセットに追われた――インフラの強さと提供の安定性が噛み合わない一日に、Anthropicは大型パートナーシップと「使命重視」を問う採用姿勢を重ねた。"
     }
   ],
   "urls": [
@@ -206,6 +212,20 @@
     "claude.com/customers/deepgram",
     "salesforce.com/news/stories/agentic-enterprise-index-insights-2026",
     "simonwillison.net/2026/Aug/22/more-than-just-code-review",
-    "zenn.dev/yymm/articles/20260821-qiita-zenn-writing-setup"
+    "zenn.dev/yymm/articles/20260821-qiita-zenn-writing-setup",
+    "bloomberg.com/news/articles/2026-08-25/openai-claims-its-new-chips-can-outperform-nvidia-processors-in-tests",
+    "techno-edge.net/article/2026/08/24/5419.html",
+    "itmedia.co.jp/aiplus/article/2608/25/2000000744",
+    "itmedia.co.jp/aiplus/article/2608/24/2000000703",
+    "havoptic.com/tools/claude-code",
+    "nikkei.com/article/DGXZQOGN24A2J0U6A820C2000000",
+    "claude.com/customers/jamf",
+    "claude.com/blog/how-an-anthropic-field-marketer-uses-claude-code-to-send-weekly-personalized-updates-to-every-sales-rep",
+    "prtimes.jp/main/html/rd/p/000000483.000019382.html",
+    "bain.com/about/media-center/press-releases/2026/bain-company-announces-partnership-with-anthropic-to-accelerate-clients-enterprise-ai-transformations",
+    "fortune.com/2026/08/25/anthropic-ipo-could-create-millionaires-but-company-worried-about-money-over-mission-ai-firm-ceo-dario-amodei",
+    "enterprisezine.jp/news/detail/24917",
+    "news.panasonic.com/jp/press/jn260729-1",
+    "note.com/keniti26/n/ncf5230b4f931"
   ]
 }
