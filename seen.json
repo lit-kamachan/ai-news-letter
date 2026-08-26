@@ -77,6 +77,12 @@
       "no": 13,
       "count": 14,
       "lead": "OpenAIが自社推論チップでNvidia機を性能面で上回る一方、ChatGPT・Codexの利用制限は復活・再リセットに追われた――インフラの強さと提供の安定性が噛み合わない一日に、Anthropicは大型パートナーシップと「使命重視」を問う採用姿勢を重ねた。"
+    },
+    {
+      "date": "2026-08-27",
+      "no": 14,
+      "count": 13,
+      "lead": "Anthropicが記憶統合・自社チップ・ブラウザ内蔵とCoworkの運用基盤を一気に固める一方、Salesforce CEOのBenioff氏は企業のAI導入を「まだ始まったばかり」と評した――モデル競争から運用基盤の整備競争へ、焦点が完全に移った一日。"
     }
   ],
   "urls": [
@@ -226,6 +232,19 @@
     "fortune.com/2026/08/25/anthropic-ipo-could-create-millionaires-but-company-worried-about-money-over-mission-ai-firm-ceo-dario-amodei",
     "enterprisezine.jp/news/detail/24917",
     "news.panasonic.com/jp/press/jn260729-1",
-    "note.com/keniti26/n/ncf5230b4f931"
+    "note.com/keniti26/n/ncf5230b4f931",
+    "claude.com/blog/claudes-memory-works-everywhere-and-you-decide-whats-in-it",
+    "bloomberg.com/news/articles/2026-08-21/anthropic-taps-google-chip-veteran-as-part-of-push-into-hardware",
+    "workspaceupdates.googleblog.com/2026/08/ask-gemini-in-chat.html",
+    "bloomberg.com/news/articles/2026-08-26/alibaba-releases-smaller-cost-effective-qwen-ai-model",
+    "forkast.news/openai-retired-o3-from-chatgpt-today-the-real-cost-is-the-churn-it-forces-on-everyone-else",
+    "claude.com/blog/cowork-built-in-browser",
+    "forest.watch.impress.co.jp/docs/serial/yaaiwatch/2134654.html",
+    "news.syr.edu/2026/08/05/syracuse-university-bolsters-claude-enterprise-licenses-with-claude-code-and-claude-cowork",
+    "thestockobserver.com/2026/08/25/salesforce-ceo-benioff-says-enterprise-ai-adoption-is-still-just-beginning.html",
+    "axios.com/2026/08/24/scoop-anthropic-candidates-face-blunt-money-question",
+    "trends.codecamp.jp/blogs/media/news-prt-17610-264",
+    "qiita.com/Tomo27/items/768ac75ba980416d921d",
+    "pub.mynavi.jp/news/20260820-1"
   ]
 }
