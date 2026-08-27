@@ -83,6 +83,12 @@
       "no": 14,
       "count": 13,
       "lead": "Anthropicが記憶統合・自社チップ・ブラウザ内蔵とCoworkの運用基盤を一気に固める一方、Salesforce CEOのBenioff氏は企業のAI導入を「まだ始まったばかり」と評した――モデル競争から運用基盤の整備競争へ、焦点が完全に移った一日。"
+    },
+    {
+      "date": "2026-08-28",
+      "no": 15,
+      "count": 11,
+      "lead": "Nvidiaがオープンソース基盤Hugging Faceを129億ドルで買収合意する一方、SalesforceはAnthropicとの提携「Claudeforce」でCRMを「エージェントの基盤」と位置づけた――モデルそのものより、誰が配布経路とデータ基盤を握るかが争点になった一日。"
     }
   ],
   "urls": [
@@ -245,6 +251,17 @@
     "axios.com/2026/08/24/scoop-anthropic-candidates-face-blunt-money-question",
     "trends.codecamp.jp/blogs/media/news-prt-17610-264",
     "qiita.com/Tomo27/items/768ac75ba980416d921d",
-    "pub.mynavi.jp/news/20260820-1"
+    "pub.mynavi.jp/news/20260820-1",
+    "technode.com/2026/08/27/zhipu-identifies-ox-alpha-as-glm-5-3-flash-and-releases-model-weights",
+    "9to5google.com/2026/08/26/gemini-3-5-transcribe",
+    "cnbc.com/2026/08/27/nvidia-hugging-face-acquisition.html",
+    "qiita.com/picnic/items/47b4c6caffea458d8461",
+    "techtimes.com/articles/325576/20260826/chatgpt-work-adds-gmail-webhooks-inbox-login-new-automation-new-attack-route.htm",
+    "claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
+    "salesforce.com/news/press-releases/2026/08/26/salesforce-and-anthropic-announce-claudeforce",
+    "techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai",
+    "cnbc.com/2026/08/26/salesforce-ceo-marc-benioff-saaspocalypse-nonsense.html",
+    "aismiley.co.jp/ai_news/aihaku-sum2026-3rdsp",
+    "salesforce.com/ap/news/press-releases/2026/08/24/salesforce-launches-slack-code-to-make-ai-software-development-multiplayer"
   ]
 }
