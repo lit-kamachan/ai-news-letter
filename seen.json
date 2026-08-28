@@ -89,6 +89,12 @@
       "no": 15,
       "count": 11,
       "lead": "Nvidiaがオープンソース基盤Hugging Faceを129億ドルで買収合意する一方、SalesforceはAnthropicとの提携「Claudeforce」でCRMを「エージェントの基盤」と位置づけた――モデルそのものより、誰が配布経路とデータ基盤を握るかが争点になった一日。"
+    },
+    {
+      "date": "2026-08-29",
+      "no": 16,
+      "count": 9,
+      "lead": "Anthropicが科学者1万人にClaudeを無償開放する一方、LINEヤフーはAIエージェントの量産体制を専任タスクフォース化した――モデルを配る側と使い倒す側の双方が、実験段階から量産・運用段階に踏み出した一日。"
     }
   ],
   "urls": [
@@ -262,6 +268,15 @@
     "techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai",
     "cnbc.com/2026/08/26/salesforce-ceo-marc-benioff-saaspocalypse-nonsense.html",
     "aismiley.co.jp/ai_news/aihaku-sum2026-3rdsp",
-    "salesforce.com/ap/news/press-releases/2026/08/24/salesforce-launches-slack-code-to-make-ai-software-development-multiplayer"
+    "salesforce.com/ap/news/press-releases/2026/08/24/salesforce-launches-slack-code-to-make-ai-software-development-multiplayer",
+    "venturebeat.com/technology/googles-gemini-omni-flash-hits-the-api-turning-enterprise-video-production-into-a-conversation",
+    "anthropic.com/news/expanding-support-for-scientists",
+    "claude.com/blog/cowork-chrome-side-panel",
+    "claude.com/office-hours",
+    "claude.com/customers/spotify",
+    "prtimes.jp/main/html/rd/p/000001790.000129774.html",
+    "insurancejournal.com/news/national/2026/08/28/883217.htm",
+    "finance.yahoo.com/technology/ai/articles/cisco-csco-puts-90-000-151328425.html",
+    "explainx.ai/blog/claude-code-drafts-bug-reports-feedback-august-2026"
   ]
 }
