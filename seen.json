@@ -95,6 +95,12 @@
       "no": 16,
       "count": 9,
       "lead": "Anthropicが科学者1万人にClaudeを無償開放する一方、LINEヤフーはAIエージェントの量産体制を専任タスクフォース化した――モデルを配る側と使い倒す側の双方が、実験段階から量産・運用段階に踏み出した一日。"
+    },
+    {
+      "date": "2026-08-30",
+      "no": 17,
+      "count": 10,
+      "lead": "Anthropicがロボットや実験装置をClaudeに直接操作させる標準規格を打ち出す一方、118社を超えるAI企業が競合の枠を超えてサイバー防御の公開書簡に署名した――エージェントが現実世界に踏み出す動きと、その手前でリスクに共同で備える動きが同時に進んだ一日。"
     }
   ],
   "urls": [
@@ -277,6 +283,16 @@
     "prtimes.jp/main/html/rd/p/000001790.000129774.html",
     "insurancejournal.com/news/national/2026/08/28/883217.htm",
     "finance.yahoo.com/technology/ai/articles/cisco-csco-puts-90-000-151328425.html",
-    "explainx.ai/blog/claude-code-drafts-bug-reports-feedback-august-2026"
+    "explainx.ai/blog/claude-code-drafts-bug-reports-feedback-august-2026",
+    "anthropic.com/news/model-hardware-standard-research-preview",
+    "claude.com/blog/claude-in-chrome-generally-available",
+    "api-docs.deepseek.com/news/news260821",
+    "tech.yahoo.com/ai/gemini/articles/google-a2a-protocol-joins-aaif-020554895.html",
+    "business.nikkei.com/atcl/gen/19/00917/082700001",
+    "claude.com/blog/claude-for-teachers-now-available-for-schools-and-districts",
+    "watch.impress.co.jp/docs/news/2136045.html",
+    "itmedia.co.jp/aiplus/article/2608/28/2000000876",
+    "github.com/anthropics/claude-code/releases/tag/v2.1.248",
+    "github.com/anthropics/claude-code/releases/tag/v2.1.251"
   ]
 }
