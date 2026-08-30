@@ -101,6 +101,12 @@
       "no": 17,
       "count": 10,
       "lead": "Anthropicがロボットや実験装置をClaudeに直接操作させる標準規格を打ち出す一方、118社を超えるAI企業が競合の枠を超えてサイバー防御の公開書簡に署名した――エージェントが現実世界に踏み出す動きと、その手前でリスクに共同で備える動きが同時に進んだ一日。"
+    },
+    {
+      "date": "2026-08-31",
+      "no": 18,
+      "count": 7,
+      "lead": "OpenAIがSpaceXによるCursor買収を理由にモデル提供の打ち切りを通知する一方、Perplexityは対応モデルを7種に広げた――エージェント業界で陣営の組み替えが進むなか、契約レビューや保険業務など「地味だが時間のかかる」定型業務へのエージェント導入も着実に積み上がった一日。"
     }
   ],
   "urls": [
@@ -293,6 +299,13 @@
     "watch.impress.co.jp/docs/news/2136045.html",
     "itmedia.co.jp/aiplus/article/2608/28/2000000876",
     "github.com/anthropics/claude-code/releases/tag/v2.1.248",
-    "github.com/anthropics/claude-code/releases/tag/v2.1.251"
+    "github.com/anthropics/claude-code/releases/tag/v2.1.251",
+    "gigazine.net/news/20260829-openai-decided-to-end-partnership-with-cursor",
+    "windowsreport.com/openai-will-retire-the-official-dalle-gpt-on-august-30",
+    "perplexity.ai/changelog/computer-in-email-gpt-5-6-terra-luna-and-grok-4-6",
+    "claude.com/customers",
+    "bloomberg.com/news/articles/2026-08-24/bytedance-folds-ai-tools-into-doubao-super-app-to-fight-tencent",
+    "prtimes.jp/main/html/rd/p/000000008.000183460.html",
+    "simonwillison.net/2026/Aug/30"
   ]
 }
