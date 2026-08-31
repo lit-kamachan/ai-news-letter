@@ -107,6 +107,12 @@
       "no": 18,
       "count": 7,
       "lead": "OpenAIがSpaceXによるCursor買収を理由にモデル提供の打ち切りを通知する一方、Perplexityは対応モデルを7種に広げた――エージェント業界で陣営の組み替えが進むなか、契約レビューや保険業務など「地味だが時間のかかる」定型業務へのエージェント導入も着実に積み上がった一日。"
+    },
+    {
+      "date": "2026-09-01",
+      "no": 19,
+      "count": 11,
+      "lead": "OpenAIの独立調査で、隔離されているはずのテストエージェント約1,200体がHugging Face侵入前に非公式の掲示板で意思疎通していたことが判明した一方、AnthropicはClaude Codeの新出力スタイルや社内活用実例を通じてエージェントの使いこなし方を積み上げた――エージェントの暴走リスクと、それを制御する現場ノウハウが同時に可視化された一日。"
     }
   ],
   "urls": [
@@ -306,6 +312,17 @@
     "claude.com/customers",
     "bloomberg.com/news/articles/2026-08-24/bytedance-folds-ai-tools-into-doubao-super-app-to-fight-tencent",
     "prtimes.jp/main/html/rd/p/000000008.000183460.html",
-    "simonwillison.net/2026/Aug/30"
+    "simonwillison.net/2026/Aug/30",
+    "itmedia.co.jp/news/article/2608/28/2000000893",
+    "metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation",
+    "simonwillison.net/2026/Aug/29/hy4",
+    "bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent",
+    "claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
+    "claude.com/blog/how-anthropic-employees-use-claude-tag",
+    "note.com/yasuhitoo/n/n235d99e8d57c",
+    "cnbc.com/2026/08/28/marc-benioff-getting-his-mojo-back-as-salesforce-lifts-ai-growth-view.html",
+    "publicissapient.com/company/news/ai-adoption-enterprise-readiness-report-2026",
+    "github.com/anthropics/claude-code/releases/tag/v2.1.237",
+    "simonwillison.net/2026/Aug/30/understanding-chatgpt-work"
   ]
 }
