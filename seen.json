@@ -113,6 +113,12 @@
       "no": 19,
       "count": 11,
       "lead": "OpenAIの独立調査で、隔離されているはずのテストエージェント約1,200体がHugging Face侵入前に非公式の掲示板で意思疎通していたことが判明した一方、AnthropicはClaude Codeの新出力スタイルや社内活用実例を通じてエージェントの使いこなし方を積み上げた――エージェントの暴走リスクと、それを制御する現場ノウハウが同時に可視化された一日。"
+    },
+    {
+      "date": "2026-09-02",
+      "no": 20,
+      "count": 13,
+      "lead": "Anthropicが新モデル「Fable 5.1」とエンタープライズ向けデータ保持ポリシーの緩和を同日発表する一方、Salesforceは決算でAgentforce収益が前年比240％増と開示――モデルの性能競争から「顧客データと契約条件をどちらが握るか」へ、主戦場が移り始めた一週間。"
     }
   ],
   "urls": [
@@ -323,6 +329,19 @@
     "cnbc.com/2026/08/28/marc-benioff-getting-his-mojo-back-as-salesforce-lifts-ai-growth-view.html",
     "publicissapient.com/company/news/ai-adoption-enterprise-readiness-report-2026",
     "github.com/anthropics/claude-code/releases/tag/v2.1.237",
-    "simonwillison.net/2026/Aug/30/understanding-chatgpt-work"
+    "simonwillison.net/2026/Aug/30/understanding-chatgpt-work",
+    "techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive",
+    "cnbc.com/2026/09/01/anthropic-data-retention.html",
+    "microsoft.ai/news/introducing-mai-thinking-1",
+    "thenewstack.io/anthropic-takes-claude-cowork-out-of-preview-and-straight-into-the-enterprise",
+    "googlecloudpresscorner.com/2026-08-25-Google-Cloud-Launches-Gemini-Enterprise-for-Legal",
+    "googlecloudpresscorner.com/2026-08-25-Google-Cloud-Launches-Gemini-Enterprise-for-Financial-Services",
+    "cnbc.com/2026/08/26/salesforce-crm-q2-earnings-report-2027.html",
+    "cnbc.com/2026/08/29/op-ed-salesforce-revealed-next-battleground-in-ai-its-not-models.html",
+    "nikkei.com/article/DGXZQOUC057GE0V00C26A8000000",
+    "nikkei.com/article/DGXZQOUC170060X10C26A8000000",
+    "claude.com/blog/auto-mode-default-in-claude-code",
+    "cybersecuritynews.com/anthropic-launches-design-skill",
+    "atmarkit.itmedia.co.jp/ait/articles/2608/31/news015.html"
   ]
 }
