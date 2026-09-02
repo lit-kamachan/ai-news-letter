@@ -119,6 +119,12 @@
       "no": 20,
       "count": 13,
       "lead": "Anthropicが新モデル「Fable 5.1」とエンタープライズ向けデータ保持ポリシーの緩和を同日発表する一方、Salesforceは決算でAgentforce収益が前年比240％増と開示――モデルの性能競争から「顧客データと契約条件をどちらが握るか」へ、主戦場が移り始めた一週間。"
+    },
+    {
+      "date": "2026-09-03",
+      "no": 21,
+      "count": 13,
+      "lead": "Google・World Labs・Metaがテキスト・空間・音声とそれぞれ専門領域の異なるモデルを同じ週に発表する一方、AnthropicはCoworkを職種特化プラグイン11種で専門エージェント化し、MUFG亀澤会長は「AIエージェントという言葉はもう正しくない」と言い切った――モデルの細分化と、現場での呼び方・使い方の再定義が同時に進んだ一日。"
     }
   ],
   "urls": [
@@ -342,6 +348,19 @@
     "nikkei.com/article/DGXZQOUC170060X10C26A8000000",
     "claude.com/blog/auto-mode-default-in-claude-code",
     "cybersecuritynews.com/anthropic-launches-design-skill",
-    "atmarkit.itmedia.co.jp/ait/articles/2608/31/news015.html"
+    "atmarkit.itmedia.co.jp/ait/articles/2608/31/news015.html",
+    "9to5google.com/2026/09/02/gemini-3-8-flash-launch",
+    "androidheadlines.com/2026/09/google-debuts-gemini-3-8-flash-cyber-variants.html",
+    "siliconangle.com/2026/09/01/fei-fei-lis-world-labs-debuts-atlas-a-world-model-showcase-for-advanced-spatial-intelligence",
+    "9to5mac.com/2026/09/01/meta-launches-muse-voice-transcribe-for-real-time-voice-dictation-on-mac",
+    "pymnts.com/news/artificial-intelligence/2026/anthropic-says-new-cowork-plugins-tailor-claude-specific-job-functions",
+    "claude.com/customers/copy-ai",
+    "claude.com/customers/clay",
+    "prtimes.jp/main/html/rd/p/000000657.000011115.html",
+    "news.yahoo.co.jp/articles/15571b305080ae5739580112a2591b1cae53bc64",
+    "business.nikkei.com/atcl/gen/19/00711/090100044",
+    "simonwillison.net/2026/Sep/1/claude-fable-5-1",
+    "qiita.com/homhom44/items/a04c2455fd1cbedecb39",
+    "genai-ai.co.jp/ai-kanri/blog/cc-cowork-skills-plugin-91"
   ]
 }
