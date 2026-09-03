@@ -125,6 +125,12 @@
       "no": 21,
       "count": 13,
       "lead": "Google・World Labs・Metaがテキスト・空間・音声とそれぞれ専門領域の異なるモデルを同じ週に発表する一方、AnthropicはCoworkを職種特化プラグイン11種で専門エージェント化し、MUFG亀澤会長は「AIエージェントという言葉はもう正しくない」と言い切った――モデルの細分化と、現場での呼び方・使い方の再定義が同時に進んだ一日。"
+    },
+    {
+      "date": "2026-09-04",
+      "no": 22,
+      "count": 12,
+      "lead": "OpenAIの「GPT-6 Astra」とMetaの「Muse Spark 1.3」が性能そのものより安全プロトコルとデータ提供条件を前面に出す一方、NECや新東通信は既存プラットフォームへのエージェント組み込みを経営計画に落とし込み、BroadcomはAnthropicをギガワット単位の最大顧客と名指しした――モデル競争の軸が「性能」から「条件」と「調達規模」に移った一日。"
     }
   ],
   "urls": [
@@ -361,6 +367,18 @@
     "business.nikkei.com/atcl/gen/19/00711/090100044",
     "simonwillison.net/2026/Sep/1/claude-fable-5-1",
     "qiita.com/homhom44/items/a04c2455fd1cbedecb39",
-    "genai-ai.co.jp/ai-kanri/blog/cc-cowork-skills-plugin-91"
+    "genai-ai.co.jp/ai-kanri/blog/cc-cowork-skills-plugin-91",
+    "axios.com/2026/09/03/openai-astra-gpt-6-agi-brockman",
+    "axios.com/2026/09/02/meta-debuts-muse-spark-13-as-personal-agent-work-continues",
+    "9to5mac.com/2026/09/01/perplexity-launches-privacy-minded-hybrid-compute-ai-feature-for-mac",
+    "simonwillison.net/2026/Sep/2/claudes-new-system-prompt",
+    "prtimes.jp/main/html/rd/p/000000168.000103090.html",
+    "jpn.nec.com/press/202609/20260902_01.html",
+    "the-miyanichi.co.jp/pressrelease/prtimes/1060496.html",
+    "lycorp.co.jp/ja/news/release/020464",
+    "cnbc.com/2026/09/02/broadcom-avgo-q3-earnings-report-2026.html",
+    "edu.watch.impress.co.jp/docs/news/2137800.html",
+    "simonwillison.net/2026/Sep/1/codex-libreoffice",
+    "simonwillison.net/2026/Sep/2/llm-gemini"
   ]
 }
