@@ -131,6 +131,12 @@
       "no": 22,
       "count": 12,
       "lead": "OpenAIの「GPT-6 Astra」とMetaの「Muse Spark 1.3」が性能そのものより安全プロトコルとデータ提供条件を前面に出す一方、NECや新東通信は既存プラットフォームへのエージェント組み込みを経営計画に落とし込み、BroadcomはAnthropicをギガワット単位の最大顧客と名指しした――モデル競争の軸が「性能」から「条件」と「調達規模」に移った一日。"
+    },
+    {
+      "date": "2026-09-05",
+      "no": 23,
+      "count": 11,
+      "lead": "モデル各社は性能の絶対値競争より「誰にどの権限で使わせるか」の絞り込みに向かい、企業側はエージェントに実行権限までは渡さず照会・生成の一部だけを任せる線引きを揃え始めた一日。"
     }
   ],
   "urls": [
@@ -379,6 +385,17 @@
     "cnbc.com/2026/09/02/broadcom-avgo-q3-earnings-report-2026.html",
     "edu.watch.impress.co.jp/docs/news/2137800.html",
     "simonwillison.net/2026/Sep/1/codex-libreoffice",
-    "simonwillison.net/2026/Sep/2/llm-gemini"
+    "simonwillison.net/2026/Sep/2/llm-gemini",
+    "venturebeat.com/technology/anthropics-claude-fable-5-1-and-mythos-5-1-arrive-with-a-75-cost-reduction-for-fable-cache-reads",
+    "blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber",
+    "technode.com/2026/09/02/alibaba-upgrades-qwen38-max-with-new-0902-snapshot",
+    "finance.biggo.com/news/cdeb763e-3e82-4f0b-82bd-4f473881bf08",
+    "marktechpost.com/2026/09/03/anthropic-released-claude-commerce-agents-an-apache-2-0-blueprint-for-shopping-and-merchant-agents-across-retail-travel-telecom-and-entertainment",
+    "globenewswire.com/news-release/2026/09/03/3356273/0/en/picpay-announces-integration-with-claude-expanding-customer-access-to-financial-information-through-generative-ai.html",
+    "anthropic.com/news/dxc-anthropic-alliance",
+    "blogs.cisco.com/news/my-agent-and-the-rise-of-ambient-intelligence-ciscos-next-step-in-enterprise-ai",
+    "siliconangle.com/2026/09/02/ai-control-plane-george-kurtz-safemind-falcon",
+    "salesforce.com/news/press-releases/2026/08/26/fy27-q2-earnings",
+    "thenewstack.io/shopify-claude-code-agentsmd"
   ]
 }
