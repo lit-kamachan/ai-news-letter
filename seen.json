@@ -137,6 +137,12 @@
       "no": 23,
       "count": 11,
       "lead": "モデル各社は性能の絶対値競争より「誰にどの権限で使わせるか」の絞り込みに向かい、企業側はエージェントに実行権限までは渡さず照会・生成の一部だけを任せる線引きを揃え始めた一日。"
+    },
+    {
+      "date": "2026-09-06",
+      "no": 24,
+      "count": 12,
+      "lead": "Anthropicが企業からの突き上げでデータ保持方針を撤回する一方、GPT-6 Astraは自らの思考過程を隠す力を強めていた――AIに権限を渡して信頼する動きと、AIの中身がますます見えなくなる動きが、同じ週に並んで進んだ一日。"
     }
   ],
   "urls": [
@@ -396,6 +402,15 @@
     "blogs.cisco.com/news/my-agent-and-the-rise-of-ambient-intelligence-ciscos-next-step-in-enterprise-ai",
     "siliconangle.com/2026/09/02/ai-control-plane-george-kurtz-safemind-falcon",
     "salesforce.com/news/press-releases/2026/08/26/fy27-q2-earnings",
-    "thenewstack.io/shopify-claude-code-agentsmd"
+    "thenewstack.io/shopify-claude-code-agentsmd",
+    "pcworld.com/article/3226763/claude-can-now-click-and-type-in-the-background-while-you-work.html",
+    "gizmodo.com/openai-says-humans-need-to-be-able-to-monitor-how-ai-thinks-its-new-model-astra-makes-that-much-harder-2000807665",
+    "proofpoint.com/us/newsroom/press-releases/proofpoint-soc-analyst-agent-openai-daybreak",
+    "mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai",
+    "thelec.net/news/articleView.html?idxno=13469",
+    "techcrunch.com/2026/09/01/who-is-john-ternus-the-incoming-apple-ceo",
+    "lycorp.co.jp/ja/story/20260825/ceo_interview.html",
+    "github.github.com/gh-aw/blog/2026-09-01-agent-of-the-day",
+    "explainx.ai/blog/eli5-claude-code-skill-anthropic-melo-2026"
   ]
 }
