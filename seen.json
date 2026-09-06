@@ -143,6 +143,12 @@
       "no": 24,
       "count": 12,
       "lead": "Anthropicが企業からの突き上げでデータ保持方針を撤回する一方、GPT-6 Astraは自らの思考過程を隠す力を強めていた――AIに権限を渡して信頼する動きと、AIの中身がますます見えなくなる動きが、同じ週に並んで進んだ一日。"
+    },
+    {
+      "date": "2026-09-07",
+      "no": 25,
+      "count": 11,
+      "lead": "GPT-6 Astraが社内基準「Critical」の閾値を初めて超えて審査制の段階提供に切り替わる一方、PwCは保険引受を10週間から10日間に短縮したと具体的な数字で示した――モデルの力を誰にどこまで渡すかの線引きと、現場での実績の数字が同時に進んだ一日。"
     }
   ],
   "urls": [
@@ -411,6 +417,17 @@
     "techcrunch.com/2026/09/01/who-is-john-ternus-the-incoming-apple-ceo",
     "lycorp.co.jp/ja/story/20260825/ceo_interview.html",
     "github.github.com/gh-aw/blog/2026-09-01-agent-of-the-day",
-    "explainx.ai/blog/eli5-claude-code-skill-anthropic-melo-2026"
+    "explainx.ai/blog/eli5-claude-code-skill-anthropic-melo-2026",
+    "github.com/anthropics/claude-code/releases/tag/v2.1.259",
+    "github.com/anthropics/claude-code/releases/tag/v2.1.260",
+    "github.com/anthropics/claude-code/releases/tag/v2.1.261",
+    "cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
+    "the-decoder.com/alibaba-releases-qwen3-8-flash-next-targeting-ultimate-cost-efficiency",
+    "prtimes.jp/main/html/rd/p/000000044.000091779.html",
+    "claude.com/customers/pwc-qa",
+    "x.com/chugai_cc/status/2093240976613732626",
+    "blogs.itmedia.co.jp/taps/2026/09/ai99----.html",
+    "simonwillison.net/2026/Sep/5/blender-coding-agents-macos",
+    "simonwillison.net/2026/Sep/2/markdown-svg-renderer"
   ]
 }
