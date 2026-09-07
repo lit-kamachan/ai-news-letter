@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta name="theme-color" content="#FFFFFF">
+<title>AIニュースレター｜2026/9/8（火）</title>
+<style>
+:root{--ink:#16191C;--body:#2A2E33;--gray:#8B95A1;--line:#E3E6E8;--blue:#0F8BFF;--red:#E8482E;--fig:#EDEFF0;--figh:#3C4650;}
+*{box-sizing:border-box;-webkit-text-size-adjust:100%;}
+html,body{margin:0;padding:0;background:#fff;}
+body{color:var(--body);font-family:-apple-system,BlinkMacSystemFont,"Hiragino Kaku Gothic ProN","Noto Sans JP","Yu Gothic",sans-serif;font-size:15px;line-height:1.85;letter-spacing:.015em;overflow-x:hidden;}
+.wrap{max-width:420px;margin:0 auto;padding-bottom:calc(env(safe-area-inset-bottom) + 40px);}
+.hero{padding:0;--art-bg:#EDE7DE;--art-accent:#0F8BFF;}
+.hero.w-mon{--art-bg:#DDE8F0;--art-accent:#0F6FDE;}
+.hero.w-tue{--art-bg:#EDE7DE;--art-accent:#E8742E;}
+.hero.w-wed{--art-bg:#E2EDE4;--art-accent:#1E9E5A;}
+.hero.w-thu{--art-bg:#EBE2EC;--art-accent:#8B5CD6;}
+.hero.w-fri{--art-bg:#F3EAB6;--art-accent:#C98A06;}
+.hero.w-sat,.hero.w-sun{--art-bg:#E9E9E9;--art-accent:#7B858F;}
+.hero svg{display:block;width:100%;height:auto;}
+.head{padding:20px 18px 0;}
+.pubdate{font-size:12px;color:var(--gray);font-variant-numeric:tabular-nums;}
+h1{margin:3px 0 0;color:var(--ink);font-size:23px;font-weight:800;line-height:1.5;letter-spacing:-.02em;}
+.lead{margin:10px 0 0;font-size:14.5px;font-weight:700;color:var(--ink);line-height:1.7;}
+.byline{display:flex;align-items:center;gap:8px;margin:14px 0 0;}
+.byline .av{width:34px;height:34px;border-radius:50%;flex:none;background:#E9ECEF;color:#5B6672;display:flex;align-items:center;justify-content:center;font-size:12px;font-weight:800;}
+.byline b{display:block;font-size:12.5px;color:var(--ink);font-weight:700;line-height:1.5;}
+.byline span{display:block;font-size:10.5px;color:var(--gray);line-height:1.5;}
+.summary{margin:20px 18px 0;border-left:4px solid var(--blue);padding:9px 0 9px 13px;}
+.summary .h{font-size:10.5px;font-weight:800;color:var(--blue);letter-spacing:.06em;}
+.summary ul{margin:5px 0 0;padding-left:17px;}
+.summary li{font-size:13px;line-height:1.7;color:var(--ink);font-weight:600;margin-top:3px;}
+.metrics{display:flex;margin:18px 18px 0;border:1px solid var(--line);}
+.metrics div{flex:1;padding:10px 4px 9px;text-align:center;border-left:1px solid var(--line);}
+.metrics div:first-child{border-left:0;}
+.metrics b{display:block;font-size:21px;font-weight:800;color:var(--ink);font-variant-numeric:tabular-nums;letter-spacing:-.03em;line-height:1.25;}
+.metrics span{display:block;font-size:10px;color:var(--gray);line-height:1.4;}
+article{padding:8px 18px 0;}
+h2{margin:32px 0 14px;padding-top:16px;border-top:1px solid var(--line);color:var(--ink);font-size:17.5px;font-weight:800;line-height:1.6;letter-spacing:-.01em;}
+h2 i{font-style:normal;font-variant-numeric:tabular-nums;}
+h2 em{font-style:normal;font-size:11px;color:var(--gray);font-weight:400;margin-left:6px;}
+.index{border:1px solid var(--line);border-radius:3px;margin:22px 0 4px;}
+.index .t{font-size:12.5px;font-weight:700;color:var(--ink);padding:10px 14px;}
+.index a{display:block;border-top:1px solid var(--line);padding:9px 14px;font-size:13px;line-height:1.6;color:var(--body);text-decoration:none;}
+.index a i{font-style:normal;color:var(--gray);font-variant-numeric:tabular-nums;margin-right:2px;}
+.index a b{float:right;font-size:11.5px;color:var(--gray);font-weight:700;font-variant-numeric:tabular-nums;}
+.item{border-bottom:1px solid var(--line);padding:15px 0 14px;}
+.item:last-child{border-bottom:0;}
+.item .t{font-size:14.5px;font-weight:700;color:var(--ink);line-height:1.6;}
+.item .what{font-size:12.5px;line-height:1.8;color:#3A424C;margin-top:5px;}
+.item .why{font-size:12.5px;line-height:1.8;color:#4C5560;margin-top:7px;padding-left:11px;border-left:2px solid var(--line);}
+.item .why b{color:var(--ink);font-weight:700;}
+.item .src{font-size:10.5px;color:var(--gray);margin-top:6px;}
+.item .src a{color:var(--blue);text-decoration:none;font-weight:600;}
+.item .src .dot{margin:0 5px;opacity:.5;}
+.tag{display:inline-block;font-size:9.5px;font-weight:800;padding:1px 4px;border-radius:2px;color:#fff;white-space:nowrap;margin-left:4px;vertical-align:1px;}
+.t-jp{background:var(--figh);} .t-en{background:#AEB6BE;}
+.catnote{margin:16px -18px 0;background:var(--fig);padding:12px 18px;font-size:11.5px;line-height:1.8;color:#4C5560;}
+.catnote b{color:var(--ink);font-weight:700;}
+.pick{margin:28px -18px 0;background:var(--fig);padding:15px 18px 14px;border-top:3px solid var(--ink);}
+.pick .h{font-size:10.5px;font-weight:800;color:var(--ink);letter-spacing:.06em;}
+.pick p{margin:5px 0 0;font-size:14px;font-weight:700;color:var(--ink);line-height:1.7;}
+.pick small{display:block;margin-top:5px;font-size:11.5px;color:#5B6672;font-weight:400;line-height:1.8;}
+footer{margin:30px 18px 0;padding-top:14px;border-top:1px solid var(--line);font-size:10.5px;color:var(--gray);line-height:1.9;}
+footer b{color:#5B6672;}
+footer a{color:var(--blue);text-decoration:none;font-weight:600;}
+</style>
+</head>
+<body>
+<div class="wrap">
+<div class="hero w-tue">
+<svg viewBox="0 0 420 372" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="新聞と電波の線画">
+  <rect width="420" height="372" fill="var(--art-bg)"/>
+  <g fill="none" stroke="#1B1B1B" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 108c-14-14-14-38 0-52"/>
+    <path d="M92 122c-24-24-24-66 0-90" opacity=".55"/>
+    <path d="M120 136c-34-34-34-94 0-128" opacity=".3"/>
+    <path d="M150 150h206a8 8 0 0 1 8 8v148a8 8 0 0 1-8 8H150z" fill="#fff"/>
+    <rect x="112" y="168" width="196" height="146" rx="8" fill="#fff"/>
+    <path d="M134 196h152" stroke-width="4.6"/>
+    <rect x="134" y="216" width="52" height="38" rx="3" fill="var(--art-accent)" stroke="none"/>
+    <path d="M198 224h88" stroke-width="3" opacity=".8"/>
+    <path d="M198 244h72" stroke-width="3" opacity=".8"/>
+    <path d="M134 274h152" stroke-width="3" opacity=".8"/>
+    <path d="M134 294h108" stroke-width="3" opacity=".8"/>
+    <path d="M24 332h372" stroke-width="3.8"/>
+  </g>
+  <polygon points="0,372 420,372 420,326 0,356" fill="#fff"/>
+</svg>
+</div>
+<div class="head">
+  <div class="pubdate">2026/9/8（火）・第26号</div>
+  <h1>AIニュースレター</h1>
+  <p class="lead">OpenAIのGPT-6 AstraがCode Arena: WebDevで首位に立ちClaude Fable 5.1に35ポイント差をつける一方、国内ではワークスアプリケーションズがERP「HUE」をAIエージェントへ開放し、ベルフェイスは自社の営業組織でAgentforce活用による業務プロセス全体40〜50%の効率化を実証した――モデル単体の競争とは別に、業務基盤そのものをAIエージェントへ明け渡す動きが日本企業に広がった一日。</p>
+  <div class="byline">
+    <span class="av">か</span>
+    <span><b>かまちゃん宛</b><span>Claude が自動収集・既出は除外済み</span></span>
+  </div>
+</div>
+<div class="summary">
+  <div class="h">この号の要点</div>
+  <ul>
+    <li>GPT-6 AstraがCode Arena: WebDevでClaude Fable 5.1に35pt差をつけて首位に。ベンチマーク上の性能競争は依然激しい。</li>
+    <li>国内ではERP「HUE」のMCP対応、ベルフェイスの自社Agentforce活用など、エージェントを基幹システムに直接接続し定量効果を出す事例が続いた。</li>
+    <li>AI安全規制を巡りAnthropicとOpenAI・Googleの足並みが乱れるなど、業界内の路線の違いも表面化した。</li>
+  </ul>
+</div>
+<div class="metrics">
+  <div><b>10</b><span>掲載本数</span></div>
+  <div><b>10</b><span>既出で除外</span></div>
+  <div><b>4</b><span>カテゴリ</span></div>
+</div>
+<article>
+<div class="index">
+  <div class="t">▼ INDEX</div>
+  <a href="#c1"><i>01</i>｜モデル・リリース速報<b>3本</b></a>
+  <a href="#c2"><i>02</i>｜Cowork中心の活用事例<b>4本</b></a>
+  <a href="#c3"><i>03</i>｜組織導入 × トップの発言<b>2本</b></a>
+  <a href="#c4"><i>04</i>｜新しい使い方の発見<b>1本</b></a>
+</div>
+<h2 id="c1"><i>01</i>｜モデル・リリース速報<em>フロンティアモデルの新版・新機能</em></h2>
+<div class="item">
+  <div class="t">GPT-6 Astra、Code Arena: WebDevで首位に<span class="tag t-en">EN</span></div>
+  <div class="what">クラウドソース型のElo評価「Code Arena: WebDev」で、OpenAIのGPT-6 Astra（Max）が1,797ptを記録し、2位のClaude Fable 5.1（Max、1,762pt）に35pt差をつけて首位に立った。9月3日の正式リリースから2日後の結果で、料金はFable 5.1と同じ1Mトークンあたり40ドル。</div>
+  <div class="why"><b>なぜ重要か：</b>汎用ベンチマークではなく「Web開発」という専門タスク別の指標で優劣が語られる段階に入り、同一価格帯でのモデル比較がより実務寄りになっている。</div>
+  <div class="src">CryptoBriefing<span class="dot">·</span>2026/9/5<span class="dot">·</span><a href="https://cryptobriefing.com/openai-gpt6-astra-tops-code-arena/">原文</a></div>
+</div>
+<div class="item">
+  <div class="t">xAI、Grok 4.7を9月12日投入目標と表明<span class="tag t-en">EN</span></div>
+  <div class="what">イーロン・マスク氏が次世代モデル「Grok 4.7」を9月12日をめどに投入すると明らかにした。パラメータ数は2.1兆で、SpaceXのエンジニアリングデータを学習に用いているという。</div>
+  <div class="why"><b>なぜ重要か：</b>自社の宇宙・製造業務データを学習源に組み込む点で、汎用ウェブテキスト依存からの差別化を狙う設計思想が明確になった。</div>
+  <div class="src">Big Hat Group<span class="dot">·</span>2026/9/6<span class="dot">·</span><a href="https://www.bighatgroup.com/blog/xai-weekly-2026-09-06">原文</a></div>
+</div>
+<div class="item">
+  <div class="t">サイバーコム、Gemini特化「ChatTAKUMI」Google Cloud版を提供開始<span class="tag t-jp">JP</span></div>
+  <div class="what">サイバーコムは社内向けAIアシスタント「ChatTAKUMI」に、GoogleのGeminiを基盤としたGoogle Cloud版を追加し、9月1日より提供を開始した。PowerPoint・音声・動画ファイルを読み込める添付機能の強化や、Geminiの強みを生かした画像生成機能を新たに搭載した。</div>
+  <div class="why"><b>なぜ重要か：</b>顧客のクラウド環境（AWS/Google Cloud）に直接AI環境を構築する設計で、機密情報を外部に出さずに生成AIを使いたい企業向けの選択肢が広がった。</div>
+  <div class="src">PR TIMES<span class="dot">·</span>2026/9/1<span class="dot">·</span><a href="https://prtimes.jp/main/html/rd/p/000000034.000151917.html">原文</a></div>
+</div>
+<div class="catnote"><b>このカテゴリの流れ：</b>汎用スコアの比較から、WebDevのようなタスク特化ベンチマークでの優劣比較へと移りつつある。同時に国内ベンダーは、GeminiやClaudeなど基盤モデルを自社の業務アプリに組み込む動きを継続している。</div>
+<h2 id="c2"><i>02</i>｜Cowork中心の活用事例<em>エージェント・社内導入のリアルな使い方</em></h2>
+<div class="item">
+  <div class="t">Pictet、Claude Codeで数週間の作業を数時間に<span class="tag t-en">EN</span></div>
+  <div class="what">スイスの金融機関Pictetの事例をAnthropicが公開した。従来は数週間かかっていた開発作業を、Claude Codeの活用によって数時間単位まで短縮したという。</div>
+  <div class="why"><b>なぜ重要か：</b>規制の厳しい金融機関でのコーディング業務の時間短縮は、エージェント活用が「試験導入」から「基幹業務の一部」に移行しつつあることを示す。</div>
+  <div class="src">Claude Customer Stories<span class="dot">·</span>2026/9/2<span class="dot">·</span><a href="https://claude.com/customers/pictet">原文</a></div>
+</div>
+<div class="item">
+  <div class="t">ベルフェイス、自社Agentforce活用で業務プロセス全体40〜50%効率化<span class="tag t-jp">JP</span></div>
+  <div class="what">ベルフェイスは自社の営業組織でSalesforceの自律型AIエージェント基盤「Agentforce」を活用した事例を公開した。商談前の情報整理からネクストアクション管理、社内トップ営業との比較フィードバック、商談要約のSlack自動共有までを日常業務に組み込み、業務プロセス全体で40〜50%の効率化を確認したという。</div>
+  <div class="why"><b>なぜ重要か：</b>単一タスクの自動化ではなく、営業プロセス全体を再設計した点と、40〜50%という定量的なKPIを示した点で、国内のAgentforce活用事例として具体性が高い。</div>
+  <div class="src">ベルフェイス<span class="dot">·</span>2026/9/4<span class="dot">·</span><a href="https://bellface.co.jp/news/7425/">原文</a></div>
+</div>
+<div class="item">
+  <div class="t">ワークスアプリケーションズ、ERP「HUE」がMCP対応<span class="tag t-jp">JP</span></div>
+  <div class="what">ワークスアプリケーションズは9月4日、ERP「HUE Composable ERP」「HUE Business Platform」が生成AI連携規格「MCP」に対応したと発表した。個別のAPI呼び出しに頼らず、AIエージェントが財務会計・購買調達などの業務データやプロセスを安全に参照・実行できる環境を整えた。</div>
+  <div class="why"><b>なぜ重要か：</b>企業が独自に構築した業務アプリにもMCPが適用される設計で、大手企業の基幹業務そのものをAIエージェントへ開放する動きが具体化した。</div>
+  <div class="src">PR TIMES<span class="dot">·</span>2026/9/4<span class="dot">·</span><a href="https://prtimes.jp/main/html/rd/p/000000383.000011485.html">原文</a></div>
+</div>
+<div class="item">
+  <div class="t">JAPAN AI×CONOC、建設業向けAIエージェント2種を提供開始<span class="tag t-jp">JP</span></div>
+  <div class="what">建設業クラウドを手がけるCONOCは、JAPAN AIと共同開発したAIエージェント第1弾「ゲンバフォトAI」「ゲンチョウAI」の提供を9月1日に開始した。ゲンバフォトAIは工事種別や撮影タイミングを自動判定して現場写真を整理し、ゲンチョウAIは現地調査の記録を効率化する。</div>
+  <div class="why"><b>なぜ重要か：</b>市場規模75兆円・就業者477万人を抱えながらDX率20.7%・AI活用率9.4%にとどまる建設業界で、紙・アナログ管理からの置き換えが具体的な製品として動き出した。</div>
+  <div class="src">PR TIMES<span class="dot">·</span>2026/9/1<span class="dot">·</span><a href="https://prtimes.jp/main/html/rd/p/000000082.000012493.html">原文</a></div>
+</div>
+<div class="catnote"><b>このカテゴリの流れ：</b>「AI同僚」的な汎用アシスタントよりも、ERPやCRMなど既存の基幹システムにAIエージェントを直接接続する事例が目立つ。効果も「時間短縮」ではなく「業務プロセス全体の効率化率」という定量指標で語られ始めている。</div>
+<h2 id="c3"><i>03</i>｜組織導入 × トップの発言<em>経営層のAI号令・方針・名言</em></h2>
+<div class="item">
+  <div class="t">LINEヤフー、AIエージェント「Agent i」の広告配信を拡大<span class="tag t-jp">JP</span></div>
+  <div class="what">LINEヤフーは9月1日、ユーザー向けAIエージェント「Agent i」でAIとの対話の文脈に応じた広告配信を拡大し、広告主向けの課金を開始したと発表した。検索連動型ショッピング広告は8月31日から配信対象を拡大、ディスプレイ広告（運用型）は7月23日から課金を先行開始しており、検証結果を踏まえ段階的に配信範囲を広げるとしている。</div>
+  <div class="why"><b>なぜ重要か：</b>AIエージェントとの対話内容を広告配信の起点にするビジネスモデルが、実験段階から課金を伴う商用フェーズへ移った。</div>
+  <div class="src">Web担当者Forum<span class="dot">·</span>2026/9/2<span class="dot">·</span><a href="https://webtan.impress.co.jp/n/2026/09/02/53230">原文</a></div>
+</div>
+<div class="item">
+  <div class="t">AI安全規制を巡りAnthropicとOpenAI・Googleが分裂<span class="tag t-en">EN</span></div>
+  <div class="what">マサチューセッツ州が検討する全米最も厳格とされるAI安全法案を巡り、Anthropicは支持を表明する一方、OpenAIとGoogleは反対に回った。Anthropicの米州・地方政府渉外責任者Cesar Fernandez氏は「AI安全の基準を引き上げつつ、イノベーションの継続を可能にするものだ」とコメントしている。</div>
+  <div class="why"><b>なぜ重要か：</b>フロンティア開発企業同士でも規制への向き合い方が一致しないことが表面化し、州レベルのAI規制が業界の足並みを分ける争点になっている。</div>
+  <div class="src">Bloomberg<span class="dot">·</span>2026/8/20<span class="dot">·</span><a href="https://www.bloomberg.com/news/articles/2026-08-20/strict-massachusetts-ai-safeguards-spark-anthropic-openai-clash">原文</a></div>
+</div>
+<h2 id="c4"><i>04</i>｜新しい使い方の発見<em>プロンプト術・ワークフロー・「その手があったか」系</em></h2>
+<div class="item">
+  <div class="t">「ペリカンSVGベンチマーク」でモデルのコストと質を一発比較<span class="tag t-en">EN</span></div>
+  <div class="what">開発者Simon Willison氏は、GPT-6 Astraに自身の定番テスト「a pelican riding a bicycle（自転車に乗るペリカン）のSVGを生成させる」を実行し、推論強度（reasoning effort）をlowからmaxまで振ってGPT-5.6 Sol・Terra・Lunaと比較した。max設定のAstraは1枚あたり出力12,638トークン・63.21セントかかった一方、同じプロンプトをGPT-5.6 Lunaで実行すると1.57セントで済んだという。</div>
+  <div class="why"><b>なぜ重要か：</b>同一の単純プロンプトを複数モデル・複数の推論強度で流すだけで、コストと出力品質のトレードオフを自分の目で定量比較できる、再現性の高い評価手法になっている。</div>
+  <div class="src">simonwillison.net<span class="dot">·</span>2026/9/5<span class="dot">·</span><a href="https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/">原文</a></div>
+</div>
+<div class="pick">
+  <div class="h">🎯 今日の1個試すなら</div>
+  <p>「ペリカンSVGベンチマーク」で手元のモデル選びを数字で見直す</p>
+  <small>手順1: 普段使っているモデルと気になる新モデル（例: Claude、GPT-6 Astra）の両方に、同一プロンプト「a pelican riding a bicycle, in SVG format」を投げる。手順2: 出力にかかったトークン数・料金・見た目の完成度をメモして並べる。手順3: 自分が普段頼んでいるタスク（コード生成・資料作成など）の推論強度設定を、コストと品質のどちらを優先するかで選び直す。</small>
+</div>
+<footer>
+  <b>収集条件</b>／直近24〜72hを中心に、海外・日本のソースを半々。出力は日本語（英語ソースは翻訳・要約）。出典リンクを付けられない項目は載せていない。<br>
+  <b>重複防止</b>／過去号で掲載したURLを <code>seen.json</code> と突合し、<b>10本</b>を既出として除外。判定はURL正規化（クエリ・トラッキングパラメータを落として比較）＋見出しの近似。<br>
+  <b>バックナンバー</b>／<a href="../index.html">全号の一覧</a>
+</footer>
+</article>
+</div>
+</body>
+</html>

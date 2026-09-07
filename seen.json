@@ -149,6 +149,12 @@
       "no": 25,
       "count": 11,
       "lead": "GPT-6 Astraが社内基準「Critical」の閾値を初めて超えて審査制の段階提供に切り替わる一方、PwCは保険引受を10週間から10日間に短縮したと具体的な数字で示した――モデルの力を誰にどこまで渡すかの線引きと、現場での実績の数字が同時に進んだ一日。"
+    },
+    {
+      "date": "2026-09-08",
+      "no": 26,
+      "count": 10,
+      "lead": "OpenAIのGPT-6 AstraがCode Arena: WebDevで首位に立ちClaude Fable 5.1に35ポイント差をつける一方、国内ではワークスアプリケーションズがERP「HUE」をAIエージェントへ開放し、ベルフェイスは自社の営業組織でAgentforce活用による業務プロセス全体40〜50%の効率化を実証した――モデル単体の競争とは別に、業務基盤そのものをAIエージェントへ明け渡す動きが日本企業に広がった一日。"
     }
   ],
   "urls": [
@@ -428,6 +434,16 @@
     "x.com/chugai_cc/status/2093240976613732626",
     "blogs.itmedia.co.jp/taps/2026/09/ai99----.html",
     "simonwillison.net/2026/Sep/5/blender-coding-agents-macos",
-    "simonwillison.net/2026/Sep/2/markdown-svg-renderer"
+    "simonwillison.net/2026/Sep/2/markdown-svg-renderer",
+    "cryptobriefing.com/openai-gpt6-astra-tops-code-arena",
+    "bighatgroup.com/blog/xai-weekly-2026-09-06",
+    "prtimes.jp/main/html/rd/p/000000034.000151917.html",
+    "claude.com/customers/pictet",
+    "bellface.co.jp/news/7425",
+    "prtimes.jp/main/html/rd/p/000000383.000011485.html",
+    "prtimes.jp/main/html/rd/p/000000082.000012493.html",
+    "webtan.impress.co.jp/n/2026/09/02/53230",
+    "bloomberg.com/news/articles/2026-08-20/strict-massachusetts-ai-safeguards-spark-anthropic-openai-clash",
+    "simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers"
   ]
 }
