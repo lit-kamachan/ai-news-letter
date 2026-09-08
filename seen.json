@@ -155,6 +155,12 @@
       "no": 26,
       "count": 10,
       "lead": "OpenAIのGPT-6 AstraがCode Arena: WebDevで首位に立ちClaude Fable 5.1に35ポイント差をつける一方、国内ではワークスアプリケーションズがERP「HUE」をAIエージェントへ開放し、ベルフェイスは自社の営業組織でAgentforce活用による業務プロセス全体40〜50%の効率化を実証した――モデル単体の競争とは別に、業務基盤そのものをAIエージェントへ明け渡す動きが日本企業に広がった一日。"
+    },
+    {
+      "date": "2026-09-09",
+      "no": 27,
+      "count": 9,
+      "lead": "Grok 4.7が2.1兆パラメータで規模を追う一方、MicrosoftのMAI-Transcribe-2は前モデル比72%減の価格で効率を競い、OpenAI首席科学者パチョッキ氏は自社の加速そのものに「どの研究所もアラインメントを解決できていない」と警鐘を鳴らした――モデル競争が「大きさ」と「安さ」に分岐する裏で、加速を推進する当事者からブレーキの議論が公に出てきた一日。"
     }
   ],
   "urls": [
@@ -444,6 +450,15 @@
     "prtimes.jp/main/html/rd/p/000000082.000012493.html",
     "webtan.impress.co.jp/n/2026/09/02/53230",
     "bloomberg.com/news/articles/2026-08-20/strict-massachusetts-ai-safeguards-spark-anthropic-openai-clash",
-    "simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers"
+    "simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers",
+    "orcarouter.ai/blog/grok-4-7-release-date",
+    "ai-revolution.co.jp/media/gpt-6-astra-vs-fable-5-1",
+    "microsoft.ai/news/mai-transcribe-2-is-the-fastest-most-accurate-and-cheapest-speech-recognition-model-in-the-world",
+    "prtimes.jp/main/html/rd/p/000000101.000031844.html",
+    "novelworks.jp/news/260825",
+    "openai.com/index/an-alien-mind",
+    "kyodonewsprwire.jp/release/202609065381",
+    "qiita.com/sescore/items/78e3dee00b5e7c414fd4",
+    "cryptobriefing.com/anthropic-launches-claude-academy"
   ]
 }
