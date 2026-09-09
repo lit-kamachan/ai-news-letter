@@ -161,6 +161,12 @@
       "no": 27,
       "count": 9,
       "lead": "Grok 4.7が2.1兆パラメータで規模を追う一方、MicrosoftのMAI-Transcribe-2は前モデル比72%減の価格で効率を競い、OpenAI首席科学者パチョッキ氏は自社の加速そのものに「どの研究所もアラインメントを解決できていない」と警鐘を鳴らした――モデル競争が「大きさ」と「安さ」に分岐する裏で、加速を推進する当事者からブレーキの議論が公に出てきた一日。"
+    },
+    {
+      "date": "2026-09-10",
+      "no": 28,
+      "count": 12,
+      "lead": "Metaの「Muse」が決済まで自律実行する一方、MNTSQやノベルワークスは人の承認を挟むゲート付きエージェントで契約審査や業務横断処理の実装を進めた――エージェントの自律範囲をどう区切るかという設計思想が、消費者向けと企業向けの双方で同時に具体化した一日。"
     }
   ],
   "urls": [
@@ -459,6 +465,18 @@
     "openai.com/index/an-alien-mind",
     "kyodonewsprwire.jp/release/202609065381",
     "qiita.com/sescore/items/78e3dee00b5e7c414fd4",
-    "cryptobriefing.com/anthropic-launches-claude-academy"
+    "cryptobriefing.com/anthropic-launches-claude-academy",
+    "techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it",
+    "9to5mac.com/2026/09/08/openai-releases-chatgpt-images-2-5-with-sharper-details-and-more-precise-editing",
+    "panews.io/articles/01a0856e-2bce-75c8-bca5-2be6af74ffd9",
+    "technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math",
+    "prtimes.jp/main/html/rd/p/000000118.000050130.html",
+    "prtimes.jp/main/html/rd/p/000000017.000086730.html",
+    "salesforce.com/jp/news/press-releases/2026/09/07/reflame-customer-news",
+    "theintercept.com/2026/09/08/military-ai-weapons-contracts-openai-anthropic-google",
+    "prtimes.jp/main/html/rd/p/000000271.000022705.html",
+    "prtimes.jp/main/html/rd/p/000000137.000105601.html",
+    "openai.com/index/research-acceleration-view-inside-openai",
+    "simonwillison.net/2026/Sep/5/blender-coding-agents-macos"
   ]
 }
