@@ -167,6 +167,12 @@
       "no": 28,
       "count": 12,
       "lead": "Metaの「Muse」が決済まで自律実行する一方、MNTSQやノベルワークスは人の承認を挟むゲート付きエージェントで契約審査や業務横断処理の実装を進めた――エージェントの自律範囲をどう区切るかという設計思想が、消費者向けと企業向けの双方で同時に具体化した一日。"
+    },
+    {
+      "date": "2026-09-11",
+      "no": 29,
+      "count": 12,
+      "lead": "AI企業の内部から辞職と侵害開示が相次ぐ一方、中国製AIの知識蒸留には米当局が共同勧告――「性能」より「制御可能性」と「配布経路」を巡る攻防が前面に出た一日。"
     }
   ],
   "urls": [
@@ -477,6 +483,18 @@
     "prtimes.jp/main/html/rd/p/000000271.000022705.html",
     "prtimes.jp/main/html/rd/p/000000137.000105601.html",
     "openai.com/index/research-acceleration-view-inside-openai",
-    "simonwillison.net/2026/Sep/5/blender-coding-agents-macos"
+    "simonwillison.net/2026/Sep/5/blender-coding-agents-macos",
+    "cisa.gov/news-events/cybersecurity-advisories/aa26-251a",
+    "anthropic.com/research/alignment-assessment-cybersecurity-incidents",
+    "anthropic.com/threat-intelligence-report-september-2026",
+    "npr.org/2026/09/09/nx-s1-5962889/anthropic-researcher-resigns-amid-ai-safety-concerns",
+    "api-docs.deepseek.com/news/news260910",
+    "claude.com/customers/carvana",
+    "claude.com/blog/reducing-cost-and-improving-performance-with-claude-platform",
+    "prtimes.jp/main/html/rd/p/000000078.000152961.html",
+    "newsroom.accenture.com/news/2026/accenture-and-google-cloud-deepen-partnership-with-formation-of-new-accenture-gemini-enterprise-business-group",
+    "corp.skillnote.jp/news/260903-2",
+    "qiita.com/suwa_nobu/items/5fe930eb46d064b3da06",
+    "qiita.com/suwa_nobu/items/2f02f97d40afb4b5db6c"
   ]
 }
