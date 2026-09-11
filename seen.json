@@ -173,6 +173,12 @@
       "no": 29,
       "count": 12,
       "lead": "AI企業の内部から辞職と侵害開示が相次ぐ一方、中国製AIの知識蒸留には米当局が共同勧告――「性能」より「制御可能性」と「配布経路」を巡る攻防が前面に出た一日。"
+    },
+    {
+      "date": "2026-09-12",
+      "no": 30,
+      "count": 9,
+      "lead": "Sakana AIが単体モデルではなく複数モデルを束ねる「オーケストレーター」で挑む一方、Shopifyはコーディングエージェントの実力を根拠に共通コードベースより2つの専用コードベースを選び直した――モデル単体の強さより、モデルをどう組み合わせ、どう運用に落とし込むかの設計判断が前面に出た一日。"
     }
   ],
   "urls": [
@@ -495,6 +501,15 @@
     "newsroom.accenture.com/news/2026/accenture-and-google-cloud-deepen-partnership-with-formation-of-new-accenture-gemini-enterprise-business-group",
     "corp.skillnote.jp/news/260903-2",
     "qiita.com/suwa_nobu/items/5fe930eb46d064b3da06",
-    "qiita.com/suwa_nobu/items/2f02f97d40afb4b5db6c"
+    "qiita.com/suwa_nobu/items/2f02f97d40afb4b5db6c",
+    "sakana.ai/fugu-max-release",
+    "github.com/anthropics/claude-code/releases/tag/v2.1.268",
+    "techbriefly.com/2026/09/11/gemini-for-windows-launches-with-alt-space-shortcut",
+    "claude.com/customers/hubspot-qa",
+    "thenewstack.io/shopify-native-ai-agents",
+    "support.claude.com/en/articles/12138966-release-notes",
+    "prtimes.jp/main/html/rd/p/000000123.000116784.html",
+    "hackernoon.com/over-50-tested-tips-for-claude-cowork-everything-from-plugins-to-sub-agents-and-more",
+    "claude.com/blog/the-claude-cowork-product-guide"
   ]
 }
