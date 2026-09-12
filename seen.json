@@ -179,6 +179,12 @@
       "no": 30,
       "count": 9,
       "lead": "Sakana AIが単体モデルではなく複数モデルを束ねる「オーケストレーター」で挑む一方、Shopifyはコーディングエージェントの実力を根拠に共通コードベースより2つの専用コードベースを選び直した――モデル単体の強さより、モデルをどう組み合わせ、どう運用に落とし込むかの設計判断が前面に出た一日。"
+    },
+    {
+      "date": "2026-09-13",
+      "no": 31,
+      "count": 8,
+      "lead": "AnthropicのアモデイCEOが自社サイトで「AI開発を減速させるべきだ」と業界に呼びかけ、OpenAIのアルトマンCEOも独立監視者の設置に同調する一方、OpenAI自身はAgents API公開ベータとGPT-Live-1音声APIを同じ週に投入した――減速を求める声と、製品を止めない現実が同居した一日。"
     }
   ],
   "urls": [
@@ -510,6 +516,14 @@
     "support.claude.com/en/articles/12138966-release-notes",
     "prtimes.jp/main/html/rd/p/000000123.000116784.html",
     "hackernoon.com/over-50-tested-tips-for-claude-cowork-everything-from-plugins-to-sub-agents-and-more",
-    "claude.com/blog/the-claude-cowork-product-guide"
+    "claude.com/blog/the-claude-cowork-product-guide",
+    "marktechpost.com/2026/09/10/openai-launches-the-agents-api-in-public-beta-putting-the-codex-harness-behind-one-api-call",
+    "unite.ai/openais-gpt-live-1-arrives-in-the-api-at-0-05-per-minute",
+    "letsdatascience.com/news/unitree-publishes-unifolm-wla-10-humanoid-model-details-ebe51eec",
+    "unite.ai/openai-introduces-data-agent-in-chatgpt-work-to-analyze-company-data",
+    "prtimes.jp/main/html/rd/p/000000462.000033386.html",
+    "news.yahoo.co.jp/articles/54e6fe902ba122aa3be9e3bcdfe401ca0bf69f05",
+    "businesswire.com/news/home/20260909003891/en/ant-international-mastercard-and-visa-initiate-collaboration-on-know-your-agent-interoperability-to-scale-agentic-commerce",
+    "support.claude.com/en/articles/16893491-get-started-with-smart-reports"
   ]
 }
