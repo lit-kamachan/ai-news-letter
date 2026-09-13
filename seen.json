@@ -185,6 +185,12 @@
       "no": 31,
       "count": 8,
       "lead": "AnthropicのアモデイCEOが自社サイトで「AI開発を減速させるべきだ」と業界に呼びかけ、OpenAIのアルトマンCEOも独立監視者の設置に同調する一方、OpenAI自身はAgents API公開ベータとGPT-Live-1音声APIを同じ週に投入した――減速を求める声と、製品を止めない現実が同居した一日。"
+    },
+    {
+      "date": "2026-09-14",
+      "no": 32,
+      "count": 8,
+      "lead": "OpenAIが安全性を理由に2026年内のIPOを撤回する一方、Tencentは自己改善に自ら使った7700億パラメータ級モデルを無償公開した――「減速」を語る企業と、公開・浸透を加速する企業の温度差が浮き彫りになった一日。"
     }
   ],
   "urls": [
@@ -524,6 +530,14 @@
     "prtimes.jp/main/html/rd/p/000000462.000033386.html",
     "news.yahoo.co.jp/articles/54e6fe902ba122aa3be9e3bcdfe401ca0bf69f05",
     "businesswire.com/news/home/20260909003891/en/ant-international-mastercard-and-visa-initiate-collaboration-on-know-your-agent-interoperability-to-scale-agentic-commerce",
-    "support.claude.com/en/articles/16893491-get-started-with-smart-reports"
+    "support.claude.com/en/articles/16893491-get-started-with-smart-reports",
+    "openai.com/index/introducing-chatgpt-images-2-5",
+    "tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview",
+    "claude.com/blog/what-1-000-small-business-owners-taught-us-about-ai",
+    "prtimes.jp/main/html/rd/p/000000288.000002500.html",
+    "prtimes.jp/main/html/rd/p/000000110.000019706.html",
+    "axios.com/2026/09/12/openai-public-ipo-delay-sam-altman",
+    "zenn.dev/canly/articles/e167546ccb6201",
+    "zenn.dev/joinclass/articles/claude-code-multi-agent-patterns"
   ]
 }
