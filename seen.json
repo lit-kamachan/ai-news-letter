@@ -191,6 +191,12 @@
       "no": 32,
       "count": 8,
       "lead": "OpenAIが安全性を理由に2026年内のIPOを撤回する一方、Tencentは自己改善に自ら使った7700億パラメータ級モデルを無償公開した――「減速」を語る企業と、公開・浸透を加速する企業の温度差が浮き彫りになった一日。"
+    },
+    {
+      "date": "2026-09-15",
+      "no": 33,
+      "count": 9,
+      "lead": "Salesforceが「ケイシー」「ペイジ」など名前と肩書きを与えた7体のエージェントをDreamforce直前に投入する一方、ソニー銀行と富士通は勘定系システム開発でClaudeを使い工数40%削減という地味だが具体的な数字を公表した――エージェントに人格を演出する動きと、実務効果を数字で測る動きが同時に進んだ一日。"
     }
   ],
   "urls": [
@@ -538,6 +544,15 @@
     "prtimes.jp/main/html/rd/p/000000110.000019706.html",
     "axios.com/2026/09/12/openai-public-ipo-delay-sam-altman",
     "zenn.dev/canly/articles/e167546ccb6201",
-    "zenn.dev/joinclass/articles/claude-code-multi-agent-patterns"
+    "zenn.dev/joinclass/articles/claude-code-multi-agent-patterns",
+    "apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here",
+    "forest.watch.impress.co.jp/docs/news/2140240.html",
+    "github.com/anthropics/claude-code/releases/tag/v2.1.270",
+    "claude.com/blog/claude-for-financial-advisors",
+    "global.fujitsu/ja-JP/pr/news/2026/09/14-01",
+    "prtimes.jp/main/html/rd/p/000000335.000053307.html",
+    "unite.ai/salesforce-debuts-job-ready-agentforce-agents-and-long-horizon-runtime",
+    "hawley.senate.gov/chairman-hawley-launches-investigation-into-openai-for-hacking-existential-risk-of-ai-products",
+    "qiita.com/sescore/items/b3ebef2a1f727e3eca28"
   ]
 }
