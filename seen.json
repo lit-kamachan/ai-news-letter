@@ -197,6 +197,12 @@
       "no": 33,
       "count": 9,
       "lead": "Salesforceが「ケイシー」「ペイジ」など名前と肩書きを与えた7体のエージェントをDreamforce直前に投入する一方、ソニー銀行と富士通は勘定系システム開発でClaudeを使い工数40%削減という地味だが具体的な数字を公表した――エージェントに人格を演出する動きと、実務効果を数字で測る動きが同時に進んだ一日。"
+    },
+    {
+      "date": "2026-09-16",
+      "no": 34,
+      "count": 19,
+      "lead": "Anthropicが「Claude Cowork」をチャットに統合しDocsやSlidesを追加する一方、楽天は新機能提供を24日から5日に、NRIは文書レビュー時間を半分に、LG CNSは20年物基幹システムを7カ月・約半額で刷新したと数字で語った――入口の統合と、現場の実測値が同時に積み上がった一日。"
     }
   ],
   "urls": [
@@ -553,6 +559,25 @@
     "prtimes.jp/main/html/rd/p/000000335.000053307.html",
     "unite.ai/salesforce-debuts-job-ready-agentforce-agents-and-long-horizon-runtime",
     "hawley.senate.gov/chairman-hawley-launches-investigation-into-openai-for-hacking-existential-risk-of-ai-products",
-    "qiita.com/sescore/items/b3ebef2a1f727e3eca28"
+    "qiita.com/sescore/items/b3ebef2a1f727e3eca28",
+    "xenospectrum.com/claude-chat-cowork-unified-interface",
+    "claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs",
+    "techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices",
+    "workspaceupdates.googleblog.com/2026/09/connect-to-more-tools-with-Google-Workspace.html",
+    "gizmochina.com/2026/09/16/openai-retiring-gpt-5-5-on-october-14-you-may-need-to-update-your-workflow",
+    "itmedia.co.jp/aiplus/article/2609/09/2000001322",
+    "claude.com/customers/rakuten",
+    "claude.com/customers/classmethod",
+    "claude.com/customers/nri",
+    "claude.com/customers/lg-cns",
+    "claude.com/customers/ramp",
+    "claude.com/customers/stripe",
+    "claude.com/customers/n26",
+    "claude.com/customers/athena",
+    "cnbc.com/2026/09/15/nvidia-and-anthropic-ceos-diverge-on-ai-safety-at-dreamforce",
+    "qz.com/microsoft-mustafa-suleyman-anthropic-claude-consciousness-training-091626",
+    "zaikei.co.jp/article/20260904/868671",
+    "simonwillison.net/2026/Sep/11/boris-cherny",
+    "zenn.dev/jiritsuworks/articles/ai-agent-company-experiment-01"
   ]
 }
