@@ -203,6 +203,12 @@
       "no": 34,
       "count": 19,
       "lead": "Anthropicが「Claude Cowork」をチャットに統合しDocsやSlidesを追加する一方、楽天は新機能提供を24日から5日に、NRIは文書レビュー時間を半分に、LG CNSは20年物基幹システムを7カ月・約半額で刷新したと数字で語った――入口の統合と、現場の実測値が同時に積み上がった一日。"
+    },
+    {
+      "date": "2026-09-18",
+      "no": 35,
+      "count": 18,
+      "lead": "Claude Codeの新Projectsが並列エージェントの指揮役に進化する一方、ImpelやGC AIは外部委託費や交渉サイクルという経営指標そのものを動かす数字を示した――モデルの束ね方と、その効果測定の両方が具体化した一日。"
     }
   ],
   "urls": [
@@ -578,6 +584,24 @@
     "qz.com/microsoft-mustafa-suleyman-anthropic-claude-consciousness-training-091626",
     "zaikei.co.jp/article/20260904/868671",
     "simonwillison.net/2026/Sep/11/boris-cherny",
-    "zenn.dev/jiritsuworks/articles/ai-agent-company-experiment-01"
+    "zenn.dev/jiritsuworks/articles/ai-agent-company-experiment-01",
+    "claude.com/blog/projects-redesigned",
+    "siliconangle.com/2026/09/16/cohere-and-aleph-alpha-agree-to-merge-in-reported-20b-deal",
+    "techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia",
+    "techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior",
+    "techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls",
+    "techtimes.com/articles/327525/20260915/claude-financial-advisors-debuts-blackrock-schwab-client-data-stays-custodian-servers.htm",
+    "claude.com/customers/impel",
+    "claude.com/customers/gc-ai",
+    "claude.com/customers/duvo",
+    "claude.com/customers/dust",
+    "techtimes.com/articles/327622/20260916/salesforce-launches-aiforce-crm-data-now-works-claude-slack-amazon.htm",
+    "fortune.com/2026/09/16/salesforce-marc-benioff-interview-dreamforce-ai-industry-regulate-yourselves-or-get-sued",
+    "itmedia.co.jp/news/article/2609/16/2000001522",
+    "prtimes.jp/main/html/rd/p/000000611.000093942.html",
+    "unite.ai/gsa-extends-anthropics-claude-onegov-offer-for-federal-agencies",
+    "news.stanford.edu/stories/2026/09/ai-agents-talk",
+    "qiita.com/suwa_nobu/items/6b00e31860d275e7b6b4",
+    "qiita.com/kai_kou/items/b20fc3d990dcfce2eec2"
   ]
 }
