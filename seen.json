@@ -215,6 +215,12 @@
       "no": 36,
       "count": 13,
       "lead": "Google DeepMindがAGI論議の社内シンクタンクを立ち上げ、SalesforceはNVIDIA基盤の自製CRMモデル「Koa」をDreamforceで披露する一方、同じ舞台でベニオフCEOは「AIをソーシャルメディア2.0にしてはならない」と業界の自制を訴えた――モデルの自製化と、その使い方への警鐘が同じ日に並んだ一日。"
+    },
+    {
+      "date": "2026-09-20",
+      "no": 37,
+      "count": 12,
+      "lead": "Anthropicは自社の次期モデル開発の26%をClaudeに任せる一方、DellのCTO兼CAIOは従業員10万人の自社でさえAI導入に苦戦したと公の場で認めた――「作る側」でのAI活用と「使う側」での試行錯誤が、同じ週に語られた。"
     }
   ],
   "urls": [
@@ -621,6 +627,16 @@
     "finance.yahoo.com/technology/article/salesforce-ceo-marc-benioff-we-cannot-let-ai-become-social-media-20-165753890",
     "blogs.nvidia.com/blog/jensen-huang-dreamforce",
     "typesafe.ai/blog/introducing-system-one-models-and-jev",
-    "arxiv.org/abs/2609.18820"
+    "arxiv.org/abs/2609.18820",
+    "washingtontimes.com/news/2026/sep/17/anthropic-says-claude-helping-build-next-version",
+    "forest.watch.impress.co.jp/docs/news/2140106.html",
+    "sqmagazine.co.uk/openai-blocks-personal-accounts-new-gpts",
+    "newsroom.kddi.com/news/detail/kddi_nr-1155_4708.html",
+    "webtan.impress.co.jp/n/2026/09/18/53318",
+    "globenewswire.com/news-release/2026/09/15/3362210/0/en/coder-brings-claude-code-to-agent-relay-unlocking-agentic-development-for-the-world-s-most-regulated-enterprises.html",
+    "gc.ai/blog/claude-legal-ai",
+    "opentext.com/about/press-releases/opentext-cohere-partner-to-combine-trusted-data-with-agentic-ai",
+    "hpcwire.com/aiwire/2026/09/17/dells-caio-dishes-on-difficult-enterprise-ai-journey",
+    "nikkei.com/article/DGXZQOUB094AN0Z00C26A9000000"
   ]
 }
