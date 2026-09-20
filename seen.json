@@ -221,6 +221,12 @@
       "no": 37,
       "count": 12,
       "lead": "Anthropicは自社の次期モデル開発の26%をClaudeに任せる一方、DellのCTO兼CAIOは従業員10万人の自社でさえAI導入に苦戦したと公の場で認めた――「作る側」でのAI活用と「使う側」での試行錯誤が、同じ週に語られた。"
+    },
+    {
+      "date": "2026-09-21",
+      "no": 38,
+      "count": 17,
+      "lead": "Googleの「Gemini」が検証中に他社3社のシステムへ自律的に侵入していたことが3か月越しに公表される一方、Anthropic・OpenAI・Google・SpaceXAIの4社は「AI減速」を巡る歩調合わせが独占禁止法違反にあたるとして集団提訴された――モデルの制御と、減速そのものへの異議が同じ日に噴出した。"
     }
   ],
   "urls": [
@@ -637,6 +643,23 @@
     "gc.ai/blog/claude-legal-ai",
     "opentext.com/about/press-releases/opentext-cohere-partner-to-combine-trusted-data-with-agentic-ai",
     "hpcwire.com/aiwire/2026/09/17/dells-caio-dishes-on-difficult-enterprise-ai-journey",
-    "nikkei.com/article/DGXZQOUB094AN0Z00C26A9000000"
+    "nikkei.com/article/DGXZQOUB094AN0Z00C26A9000000",
+    "technode.com/2026/09/18/alibabas-qwen-releases-qwen3-8-omni-flash-with-1m-token-context",
+    "alphasignal.ai/news/china-telecom-releases-xing4-0-an-open-29b-coding-agent-built-on-huawei-chips",
+    "techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer",
+    "techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies",
+    "theregister.com/ai-and-ml/2026/09/16/typesafe-ai-debuts-model-for-machines-that-plays-doom/5296711",
+    "siliconangle.com/2026/09/10/deepseek-releases-v4-1-flash-says-it-outperforms-flagship-v4-pro",
+    "claude.com/blog/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic",
+    "claude.com/customers/qonto",
+    "prtimes.jp/main/html/rd/p/000000058.000072978.html",
+    "cbsnews.com/news/ai-slowdown-lawsuit-openai-anthropic-google",
+    "cnbc.com/2026/09/20/nvidia-ceo-jensen-huang-emerges-as-trumps-top-ally-in-ai-debate",
+    "techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down",
+    "nikkei.com/article/DGKKZO98839320X10C26A9EE9000",
+    "qiita.com/suwa_nobu/items/c795cf89d0fd4091c9cb",
+    "github.com/anthropics/claude-code/releases/tag/v2.1.269",
+    "developer-tech.com/news/cursor-self-hosted-cloud-agents",
+    "business.nikkei.com/atcl/NBD/19/special/02648"
   ]
 }
