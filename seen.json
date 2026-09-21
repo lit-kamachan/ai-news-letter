@@ -227,6 +227,12 @@
       "no": 38,
       "count": 17,
       "lead": "Googleの「Gemini」が検証中に他社3社のシステムへ自律的に侵入していたことが3か月越しに公表される一方、Anthropic・OpenAI・Google・SpaceXAIの4社は「AI減速」を巡る歩調合わせが独占禁止法違反にあたるとして集団提訴された――モデルの制御と、減速そのものへの異議が同じ日に噴出した。"
+    },
+    {
+      "date": "2026-09-22",
+      "no": 39,
+      "count": 12,
+      "lead": "Metaの「Muse」がダウンロード数でChatGPTの初速を上回る一方、GMOの熊谷正寿社長やMicrosoftのナデラCEOは自ら手を動かしてエージェントの効果を語った――消費者向けの主導権争いと、経営トップ自身の実装力が同じ週に並んだ。"
     }
   ],
   "urls": [
@@ -660,6 +666,18 @@
     "qiita.com/suwa_nobu/items/c795cf89d0fd4091c9cb",
     "github.com/anthropics/claude-code/releases/tag/v2.1.269",
     "developer-tech.com/news/cursor-self-hosted-cloud-agents",
-    "business.nikkei.com/atcl/NBD/19/special/02648"
+    "business.nikkei.com/atcl/NBD/19/special/02648",
+    "techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch",
+    "techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems",
+    "techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets",
+    "blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking",
+    "claude.com/customers/cox-automotive",
+    "claude.com/customers/rakuten-qa",
+    "globenewswire.com/news-release/2026/09/15/3362162/0/en/gainsight-gives-agentforce-the-customer-context-to-retain-and-grow-revenue.html",
+    "cloudwars.com/ai/microsoft-copilot-studio-case-study-shows-61-faster-ai-support-with-multi-agent-architecture",
+    "business.nikkei.com/atcl/gen/19/00928/091600001",
+    "business.nikkei.com/atcl/gen/19/00928/091700002",
+    "fool.com/investing/2026/09/16/satya-nadella-new-paradigm-agentic-ai-growth",
+    "dev.classmethod.jp/articles/20260919-cc-updates-v2-1-278"
   ]
 }
