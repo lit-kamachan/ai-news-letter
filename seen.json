@@ -233,6 +233,12 @@
       "no": 39,
       "count": 12,
       "lead": "Metaの「Muse」がダウンロード数でChatGPTの初速を上回る一方、GMOの熊谷正寿社長やMicrosoftのナデラCEOは自ら手を動かしてエージェントの効果を語った――消費者向けの主導権争いと、経営トップ自身の実装力が同じ週に並んだ。"
+    },
+    {
+      "date": "2026-09-23",
+      "no": 40,
+      "count": 10,
+      "lead": "Anthropicが「Claude Opus 5.5」で性能を上げながら価格を4割下げる一方、xAIは「Grok 4.7」を同価格のまま2.1兆パラメータへ拡大した――値付け戦略が分岐するなか、アモデイ氏とアルトマン氏は9月23日に国連安保理でAIリスクの説明に臨む。"
     }
   ],
   "urls": [
@@ -678,6 +684,16 @@
     "business.nikkei.com/atcl/gen/19/00928/091600001",
     "business.nikkei.com/atcl/gen/19/00928/091700002",
     "fool.com/investing/2026/09/16/satya-nadella-new-paradigm-agentic-ai-growth",
-    "dev.classmethod.jp/articles/20260919-cc-updates-v2-1-278"
+    "dev.classmethod.jp/articles/20260919-cc-updates-v2-1-278",
+    "anthropic.com/claude-opus-5-5",
+    "xenospectrum.com/en/xai-grok-4-7-pricing-copilot",
+    "forkast.news/xiaomis-mimo-v2-6-ships-open-weights-at-frontier-class-performance-and-the-timing-is-not-an-accident",
+    "flowtivity.ai/blog/stepfun-step-5-cost-per-intelligence",
+    "techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai",
+    "news.yahoo.co.jp/articles/ac6c86ee0288b431a8561f38d8efee7acd97595c",
+    "claude.com/blog/the-anatomy-of-effective-commerce-agents",
+    "bloomberg.com/jp/news/articles/2026-09-22/TLRLJAR24U9C00",
+    "code.claude.com/docs/en/changelog",
+    "qiita.com/aicoding-guide/items/8ab9d3885652fdbc138a"
   ]
 }
