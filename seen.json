@@ -239,6 +239,12 @@
       "no": 40,
       "count": 10,
       "lead": "Anthropicが「Claude Opus 5.5」で性能を上げながら価格を4割下げる一方、xAIは「Grok 4.7」を同価格のまま2.1兆パラメータへ拡大した――値付け戦略が分岐するなか、アモデイ氏とアルトマン氏は9月23日に国連安保理でAIリスクの説明に臨む。"
+    },
+    {
+      "date": "2026-09-24",
+      "no": 41,
+      "count": 11,
+      "lead": "「開発を減速させるべきだ」と呼びかけた当人であるAnthropicとOpenAIが、その言葉の1日後にそろって最も安いモデルを投入して値下げ合戦に突入する一方、国連安保理ではアモデイ氏が自ら「AIは人類全体へのリスクになりうる」と述べた――言葉と市場行動の矛盾が、同じ週に並んで露呈した。"
     }
   ],
   "urls": [
@@ -694,6 +700,16 @@
     "claude.com/blog/the-anatomy-of-effective-commerce-agents",
     "bloomberg.com/jp/news/articles/2026-09-22/TLRLJAR24U9C00",
     "code.claude.com/docs/en/changelog",
-    "qiita.com/aicoding-guide/items/8ab9d3885652fdbc138a"
+    "qiita.com/aicoding-guide/items/8ab9d3885652fdbc138a",
+    "techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna",
+    "pandaily.com/alibaba-qwen4-training-roadmap-5-10t-apsara-2026",
+    "siliconangle.com/2026/09/22/googles-robotics-unit-intrinsic-open-sources-its-foundational-infrastructure-for-intelligent-robots",
+    "news.yahoo.co.jp/articles/fc07a44dffce4232d4501d59cecf3f4717204a4e",
+    "businesswire.com/news/home/20260923234992/en/CBTS-Unveils-Blueprint-for-100-Agentic-Delivery-After-Scaling-Anthropic-Company-Wide-Giving-Mid-Market-Companies-a-Proven-Path-to-AI-Fueled-Growth",
+    "prtimes.jp/main/html/rd/p/000000199.000137731.html",
+    "news.un.org/en/story/2026/09/1168414",
+    "news.yahoo.co.jp/articles/ca1f0d3a2f6985af71d810f6354d1583ec15df60",
+    "uluru.biz/news/29865",
+    "simonwillison.net/2026/Sep/18/thariq-shihipar"
   ]
 }
