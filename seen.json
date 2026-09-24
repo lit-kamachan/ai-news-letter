@@ -245,6 +245,12 @@
       "no": 41,
       "count": 11,
       "lead": "「開発を減速させるべきだ」と呼びかけた当人であるAnthropicとOpenAIが、その言葉の1日後にそろって最も安いモデルを投入して値下げ合戦に突入する一方、国連安保理ではアモデイ氏が自ら「AIは人類全体へのリスクになりうる」と述べた――言葉と市場行動の矛盾が、同じ週に並んで露呈した。"
+    },
+    {
+      "date": "2026-09-25",
+      "no": 42,
+      "count": 11,
+      "lead": "Metaがキーホルダー型AIデバイス「Muse Charm」でAIの入口をハードウェアへ広げる一方、トランプ陣営はAnthropicのアモデイCEOを「AI悲観論」の象徴として名指しで攻撃し始めた――AIを届ける手段の拡張と、AIの安全性を訴える経営者への政治的逆風が、同じ週に並んで進んだ。"
     }
   ],
   "urls": [
@@ -710,6 +716,17 @@
     "news.un.org/en/story/2026/09/1168414",
     "news.yahoo.co.jp/articles/ca1f0d3a2f6985af71d810f6354d1583ec15df60",
     "uluru.biz/news/29865",
-    "simonwillison.net/2026/Sep/18/thariq-shihipar"
+    "simonwillison.net/2026/Sep/18/thariq-shihipar",
+    "techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent",
+    "claude.com/blog/claude-marketplace",
+    "bloomberg.com/news/articles/2026-09-24/anthropic-biology-discovery-draws-cautious-notes-from-scientists",
+    "help.openai.com/en/articles/20001152-what-to-know-about-the-sora-discontinuation",
+    "claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context",
+    "aboutamazon.com/news/innovation-at-amazon/seller-assistant-plugin-amazon-quick-claude",
+    "prtimes.jp/main/html/rd/p/000000005.000162012.html",
+    "pymnts.com/news/artificial-intelligence/2026/openai-google-and-anthropic-join-forces-to-set-ai-safety-standards",
+    "axios.com/2026/09/24/trump-anthropic-ai-doomerism-dario-amodei",
+    "claude.com/blog/what-a-task-costs-on-opus-5-5",
+    "claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects"
   ]
 }
