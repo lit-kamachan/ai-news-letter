@@ -251,6 +251,12 @@
       "no": 42,
       "count": 11,
       "lead": "Metaがキーホルダー型AIデバイス「Muse Charm」でAIの入口をハードウェアへ広げる一方、トランプ陣営はAnthropicのアモデイCEOを「AI悲観論」の象徴として名指しで攻撃し始めた――AIを届ける手段の拡張と、AIの安全性を訴える経営者への政治的逆風が、同じ週に並んで進んだ。"
+    },
+    {
+      "date": "2026-09-26",
+      "no": 43,
+      "count": 17,
+      "lead": "Google・OpenAI・Anthropicが政府に頼らず自ら安全基準を作る「SAFA」設立に動く一方、Anthropicは社員に交渉をAIエージェントへ委ねさせる実験で、任せた側の3割が年間予算そのものの委任にも同意した――規制の自作と、委任の実証実験が同じ週に並んだ。"
     }
   ],
   "urls": [
@@ -727,6 +733,23 @@
     "pymnts.com/news/artificial-intelligence/2026/openai-google-and-anthropic-join-forces-to-set-ai-safety-standards",
     "axios.com/2026/09/24/trump-anthropic-ai-doomerism-dario-amodei",
     "claude.com/blog/what-a-task-costs-on-opus-5-5",
-    "claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects"
+    "claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects",
+    "9to5google.com/2026/09/24/google-says-gemini-4-release-is-coming-as-soon-as-possible",
+    "techrepublic.com/article/news-google-openai-anthropic-ai-safety-standards-body",
+    "cp24.com/news/money/2026/09/25/microsoft-revamps-copilot-with-code-generation-agentic-ai-tools",
+    "fortune.com/2026/09/24/openai-launching-gpt-6-cyber-model-and-security-product-devday",
+    "github.com/anthropics/claude-code/releases/tag/v2.1.281",
+    "claude.com/customers/miro-qa",
+    "ai.syracuse.edu/stories/claude-to-campus.html",
+    "siliconangle.com/2026/09/24/dataiku-debuts-cross-platform-agent-management-expands-cobuild-building-agent",
+    "itbusinessnet.com/2026/09/strada-launches-browser-automation-for-carrier-portals-and-legacy-systems-without-apis",
+    "globenewswire.com/news-release/2026/09/24/3368344/0/en/ando-launches-agent-native-messaging-platform-announces-20-million-seed.html",
+    "business.nikkei.com/atcl/gen/19/00928/091700004",
+    "business.nikkei.com/atcl/NBD/19/special/02649",
+    "prtimes.jp/main/html/rd/p/000000427.000024407.html",
+    "ascii.jp/elem/000/004/424/4424449",
+    "androidauthority.com/claude-cowork-record-skills-feature-3689919",
+    "anthropic.com/research/project-swap",
+    "dev.to/kenimo49/claude-code-hooks-vs-skills-vs-subagents-three-ways-to-extend-the-agent-and-when-each-backfires-1728"
   ]
 }
