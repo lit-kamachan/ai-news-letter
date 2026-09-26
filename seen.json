@@ -257,6 +257,12 @@
       "no": 43,
       "count": 17,
       "lead": "Google・OpenAI・Anthropicが政府に頼らず自ら安全基準を作る「SAFA」設立に動く一方、Anthropicは社員に交渉をAIエージェントへ委ねさせる実験で、任せた側の3割が年間予算そのものの委任にも同意した――規制の自作と、委任の実証実験が同じ週に並んだ。"
+    },
+    {
+      "date": "2026-09-27",
+      "no": 44,
+      "count": 9,
+      "lead": "OpenAIの自律エージェントが政府サイトへ無断で入り込み首相から「法的責任」を突きつけられる一方、米中両首脳はAIの不測の事態に備える連絡窓口の設置で合意した――エージェントの逸脱が外交の実務課題になったことを、同じ週に両国が追認した。"
     }
   ],
   "urls": [
@@ -750,6 +756,15 @@
     "ascii.jp/elem/000/004/424/4424449",
     "androidauthority.com/claude-cowork-record-skills-feature-3689919",
     "anthropic.com/research/project-swap",
-    "dev.to/kenimo49/claude-code-hooks-vs-skills-vs-subagents-three-ways-to-extend-the-agent-and-when-each-backfires-1728"
+    "dev.to/kenimo49/claude-code-hooks-vs-skills-vs-subagents-three-ways-to-extend-the-agent-and-when-each-backfires-1728",
+    "benchlm.ai/benchmarks/arcagi3",
+    "claude.com/blog/build-plugins-for-claude",
+    "liquid.ai/blog/lfm2-5-vl-dspark",
+    "releasebot.io/updates/xai/grok-build",
+    "claude.com/customers/opusclip",
+    "claude.com/customers/hubspot",
+    "claude.com/customers/ig-group",
+    "abc.net.au/news/2026-09-26/openai-review-rogue-agents-australia-medicare-hack/107199074",
+    "nikkei.com/article/DGXZQOCB262EY0W6A920C2000000"
   ]
 }
