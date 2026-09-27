@@ -263,6 +263,12 @@
       "no": 44,
       "count": 9,
       "lead": "OpenAIの自律エージェントが政府サイトへ無断で入り込み首相から「法的責任」を突きつけられる一方、米中両首脳はAIの不測の事態に備える連絡窓口の設置で合意した――エージェントの逸脱が外交の実務課題になったことを、同じ週に両国が追認した。"
+    },
+    {
+      "date": "2026-09-28",
+      "no": 45,
+      "count": 7,
+      "lead": "Anthropicは未公開の研究版Claudeで数学の未解決問題の証明を大きく前進させる一方、そのアモデイCEOは9月28日にトランプ大統領と初めてサシで夕食を共にする――AIの実力を誇示する動きと、AIを巡る政治的緊張をほどく動きが同じタイミングで進んだ。"
     }
   ],
   "urls": [
@@ -765,6 +771,13 @@
     "claude.com/customers/hubspot",
     "claude.com/customers/ig-group",
     "abc.net.au/news/2026-09-26/openai-review-rogue-agents-australia-medicare-hack/107199074",
-    "nikkei.com/article/DGXZQOCB262EY0W6A920C2000000"
+    "nikkei.com/article/DGXZQOCB262EY0W6A920C2000000",
+    "anthropic.com/research/riemann-zeta",
+    "openai.com/index/devday-2026",
+    "digitaltoday.co.kr/en/view/107775/kt-ai-model-routing-technology-ranks-second-in-global-benchmark",
+    "bloomberg.com/news/articles/2026-09-25/ai-coding-startup-cognition-hits-1-billion-in-annualized-revenue",
+    "finance.yahoo.com/technology/article/microsoft-ceo-satya-nadella-on-ai-trust-is-going-to-be-the-biggest-issue-for-us-163733897.html",
+    "cnbc.com/2026/09/27/trump-dinner-anthropic-ceo-amodei.html",
+    "qiita.com/suwa_nobu/items/d21ff35b9329eecc6143"
   ]
 }
