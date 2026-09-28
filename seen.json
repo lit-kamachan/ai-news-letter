@@ -269,6 +269,12 @@
       "no": 45,
       "count": 7,
       "lead": "Anthropicは未公開の研究版Claudeで数学の未解決問題の証明を大きく前進させる一方、そのアモデイCEOは9月28日にトランプ大統領と初めてサシで夕食を共にする――AIの実力を誇示する動きと、AIを巡る政治的緊張をほどく動きが同じタイミングで進んだ。"
+    },
+    {
+      "date": "2026-09-29",
+      "no": 46,
+      "count": 6,
+      "lead": "Metaが法人向けAI事業に参入し、Skyは社員が自作したAIエージェントが5か月で2万個を超えた――エージェントの競争軸が、モデル性能から「社内データにつなぎ、誰がどれだけ作って使うか」へ移っている。"
     }
   ],
   "urls": [
@@ -778,6 +784,12 @@
     "bloomberg.com/news/articles/2026-09-25/ai-coding-startup-cognition-hits-1-billion-in-annualized-revenue",
     "finance.yahoo.com/technology/article/microsoft-ceo-satya-nadella-on-ai-trust-is-going-to-be-the-biggest-issue-for-us-163733897.html",
     "cnbc.com/2026/09/27/trump-dinner-anthropic-ceo-amodei.html",
-    "qiita.com/suwa_nobu/items/d21ff35b9329eecc6143"
+    "qiita.com/suwa_nobu/items/d21ff35b9329eecc6143",
+    "kingy.ai/news/meta-enterprise-platform",
+    "news.livedoor.com/pr_topics/detail/32399809",
+    "microsoft.com/en-us/dynamics-365/blog/it-professional/2026/09/25/work-iq-business-and-workplace-intelligence-in-the-flow-of-work",
+    "techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation",
+    "edition.cnn.com/2026/09/23/tech/altman-amodei-ai-safety-un-security-council",
+    "phys.org/news/2026-09-employees-reluctant-disclose-ai-bosses.html"
   ]
 }
