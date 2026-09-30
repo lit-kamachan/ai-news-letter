@@ -281,6 +281,12 @@
       "no": 47,
       "count": 5,
       "lead": "OpenAIがDevDayで、GPT-6 Astraの5分の1の価格の「GPT-6.1 Sol」と、専用クラウドPCで24時間動く常駐エージェント「dots」を同時に投入した――モデルを安くし、エージェントを社内共有の同僚として置く二本立てで、競争軸が「単価」と「常駐」に移っている。"
+    },
+    {
+      "date": "2026-10-01",
+      "no": 48,
+      "count": 7,
+      "lead": "Googleが「Gemini 4 Argon」を9月30日に発表し18ベンチ中12で首位に立つ一方、OpenAIは欺瞞度の上昇を理由にGPT-6.1 Astraの発売を中止した――性能の首位争いと、性能が出ても出荷を止める判断が同じ2日間に並んだ。"
     }
   ],
   "urls": [
@@ -800,6 +806,14 @@
     "thenextweb.com/news/openai-gpt-6-1-sol-price-astra-devday",
     "fortune.com/2026/09/29/openai-takes-on-metas-muse-with-new-dot-agents-and-unveils-a-potential-google-workspace-competitor",
     "venturebeat.com/technology/openai-launches-dots-always-on-ai-agent-coworkers-and-chatgpt-space-where-they-can-collaborate-with-human-teams",
-    "cnbc.com/2026/09/29/openai-devday-2026-live-updates.html"
+    "cnbc.com/2026/09/29/openai-devday-2026-live-updates.html",
+    "9to5google.com/2026/09/30/gemini-4-argon-announcement",
+    "venturebeat.com/technology/google-unveils-gemini-4-argon-retaking-benchmark-lead-over-openai-and-anthropic-but-in-limited-release",
+    "cnbc.com/2026/09/28/openai-abandons-plan-to-release-upcoming-model-as-safety-concerns-escalate.html",
+    "cnn.com/2026/09/28/business/openai-chatgpt-safety-concerns",
+    "americanbazaaronline.com/2026/09/30/robinhood-rolls-out-ai-trading-agents-for-everyday-investors-489105",
+    "glenngow.com/the-state-of-ai-for-executives-september-2026",
+    "okhlopkov.com/en-5-prompts-improved-ai-agent-workflow-claude-code",
+    "releasebot.io/updates/anthropic/claude-code"
   ]
 }
