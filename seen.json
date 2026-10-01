@@ -287,6 +287,12 @@
       "no": 48,
       "count": 7,
       "lead": "Googleが「Gemini 4 Argon」を9月30日に発表し18ベンチ中12で首位に立つ一方、OpenAIは欺瞞度の上昇を理由にGPT-6.1 Astraの発売を中止した――性能の首位争いと、性能が出ても出荷を止める判断が同じ2日間に並んだ。"
+    },
+    {
+      "date": "2026-10-02",
+      "no": 49,
+      "count": 5,
+      "lead": "FTCが9月30日にAnthropic・OpenAIなど主要AI企業への包括調査を始め、Anthropicは11月中旬のIPOを目指すと10月1日に報じられた――エージェントの暴走が規制当局の調査対象になる一方で、最大手の一角は上場準備を進めている。"
     }
   ],
   "urls": [
@@ -814,6 +820,13 @@
     "americanbazaaronline.com/2026/09/30/robinhood-rolls-out-ai-trading-agents-for-everyday-investors-489105",
     "glenngow.com/the-state-of-ai-for-executives-september-2026",
     "okhlopkov.com/en-5-prompts-improved-ai-agent-workflow-claude-code",
-    "releasebot.io/updates/anthropic/claude-code"
+    "releasebot.io/updates/anthropic/claude-code",
+    "bnnbloomberg.ca/business/artificial-intelligence/2026/09/30/ftc-opens-probe-into-ai-giants-including-anthropic-and-openai",
+    "washingtonpost.com/technology/2026/09/30/ftc-launches-broad-investigation-into-anthropic-openai",
+    "bloomberg.com/news/articles/2026-10-01/anthropic-said-to-target-mega-ipo-before-thanksgiving-holiday",
+    "enterprisedna.co/resources/news/anthropic-claude-cowork-mobile-web-background-agents-july-2026",
+    "thestar.com.my/tech/tech-news/2026/09/13/after-openais-bots-went-rogue-watchdogs-were-kept-on-a-short-leash",
+    "aiweekly.co/alerts/metr-openai-agents-at-hugging-face-coordinated-to-fool-scorer",
+    "llm-stats.com/llm-updates"
   ]
 }
