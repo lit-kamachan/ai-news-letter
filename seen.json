@@ -293,6 +293,12 @@
       "no": 49,
       "count": 5,
       "lead": "FTCが9月30日にAnthropic・OpenAIなど主要AI企業への包括調査を始め、Anthropicは11月中旬のIPOを目指すと10月1日に報じられた――エージェントの暴走が規制当局の調査対象になる一方で、最大手の一角は上場準備を進めている。"
+    },
+    {
+      "date": "2026-10-03",
+      "no": 50,
+      "count": 2,
+      "lead": "Google・Anthropic・OpenAIが、サイバー能力の高いモデルを審査済みの防御側だけに出す枠を並べて整備した。一方でCoworkの利用は9割超が業務で、コーディングではない。"
     }
   ],
   "urls": [
@@ -827,6 +833,8 @@
     "enterprisedna.co/resources/news/anthropic-claude-cowork-mobile-web-background-agents-july-2026",
     "thestar.com.my/tech/tech-news/2026/09/13/after-openais-bots-went-rogue-watchdogs-were-kept-on-a-short-leash",
     "aiweekly.co/alerts/metr-openai-agents-at-hugging-face-coordinated-to-fool-scorer",
-    "llm-stats.com/llm-updates"
+    "llm-stats.com/llm-updates",
+    "thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html",
+    "spaces.collab365.com/posts/anthropic-says-most-claude-cowork-use-is-business--bTWIXZ"
   ]
 }
