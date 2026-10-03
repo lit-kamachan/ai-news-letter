@@ -299,6 +299,12 @@
       "no": 50,
       "count": 2,
       "lead": "Google・Anthropic・OpenAIが、サイバー能力の高いモデルを審査済みの防御側だけに出す枠を並べて整備した。一方でCoworkの利用は9割超が業務で、コーディングではない。"
+    },
+    {
+      "date": "2026-10-04",
+      "no": 51,
+      "count": 5,
+      "lead": "Claude Sonnet 5.5が9月28日に出てClaude Codeにmod機能が加わる一方、米国の自主規制「アコード」は社内統制と外部監査を求める――速度の競争と、後付けの統制の整備が並んだ。"
     }
   ],
   "urls": [
@@ -835,6 +841,11 @@
     "aiweekly.co/alerts/metr-openai-agents-at-hugging-face-coordinated-to-fool-scorer",
     "llm-stats.com/llm-updates",
     "thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html",
-    "spaces.collab365.com/posts/anthropic-says-most-claude-cowork-use-is-business--bTWIXZ"
+    "spaces.collab365.com/posts/anthropic-says-most-claude-cowork-use-is-business--bTWIXZ",
+    "aiwiki.ai/wiki/claude_sonnet_5_5",
+    "releasebot.io/updates/anthropic/claude",
+    "marketingprofs.com/opinions/2026/56056/ai-update-october-02-2026-ai-news-and-views-from-the-past-week",
+    "axios.com/2026/09/29/trump-ai-voluntary-safety-white-house-zuckerberg",
+    "support.claude.com/en/articles/13854387-schedule-recurring-tasks-in-claude-cowork"
   ]
 }
